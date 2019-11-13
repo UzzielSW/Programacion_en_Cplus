@@ -12,8 +12,8 @@ int main()
 	cout<<"Digite una cadena de caracteres: ";
 	cin.getline(frase, 50, '\n'); //Guardando la cadena de caracteres
 
-	if(strlen(frase)>10)
-		cout<<frase;
+	if(strlen(frase) > 10)
+		cout<< frase;
 	else
 		cout<<"La cadena no supera los 10 caracteres";
 		
