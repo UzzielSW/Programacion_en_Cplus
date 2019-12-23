@@ -3,7 +3,7 @@
   en una matriz de enteros.
 */
 
-#include "iostream"
+#include <iostream>
 using namespace std;
 
 const int SIZE = 20;
@@ -12,20 +12,22 @@ int main()
 {
 	int tests[SIZE] = { 101, 142, 147, 189, 199, 207, 222, 234, 289, 296, 310, 319, 388, 394, 417, 429, 447, 521, 536, 600};
 	int result; // resultado de busqueda
-	int empID; // dato a buscar
+	int ID; // dato a buscar
 	int binarySearch(int [], int, int, int);
 	 
 	cout << " Ingrese el ID del empleado que desea buscar: ";
-	cin >> empID;
+	cin >> ID;
 
-	result = binarySearch(tests, 0, SIZE - 1, empID);
+	result = binarySearch(tests, 0, SIZE - 1, ID);
 
 	if (result == -1)
 	 	cout << " Ese numero no existe en la matriz.\n";
-	else{
+	else
+	{
 		cout << " Esa ID se encuentra en el elemento " << result;
 		cout << " en el arreglo\n";
 	}
+
  return 0;
 }
 
@@ -38,19 +40,19 @@ int main()
   se devuelve -1 indicando que el valor no estaba en la matriz.
  **********************************************************************************/
 
- int binarySearch(int array[], int first, int last, int value)
+ int binarySearch(int array[], int primer, int ultimo, int value)
  {
-	int middle; // punto medio de busqueda
+	int medio; // punto medio de busqueda
 
-	if (first > last) // Base case
+	if (primer > ultimo) // caso base
 	 	return -1;
 	 
-	middle = (first + last)/2;
+	medio = (primer + ultimo)/2;
 	 
-	if (array[middle]==value)
-	 	return middle;
-	if (array[middle]<value)
-	 	return binarySearch(array, middle+1,last,value);
+	if (array[medio] == value)
+	 	return medio;
+	if (array[medio] < value)
+	 	return binarySearch(array, medio+1, ultimo, value);
 	else
-		return binarySearch(array, first,middle-1,value);
+		return binarySearch(array, primer, medio-1, value);
  }

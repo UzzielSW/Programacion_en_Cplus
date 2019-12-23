@@ -1,10 +1,7 @@
-#include "iostream"
-#include "stdlib.h"
-#include "conio.h"
-#include "stdio.h" 
+#include <iostream>
 using namespace std;
 
-int main(int argc, char const *argv[])
+int main()
 {
 	int num1 = 1;
 	int num2 = 2;
@@ -29,14 +26,16 @@ int main(int argc, char const *argv[])
 }
 
 
-void swap_temp(int &a, int &b){
-	int temp=a;
-	a=b;
-	b=temp;
+void swap_temp(int &a, int &b)
+{
+	int temp = a;
+	a = b;
+	b = temp;
 }
 
 
-void swap_xor(int &a, int &b){
+void swap_xor(int &a, int &b)
+{
 	a ^= b;
 	b ^= a;
 	a ^= b;
