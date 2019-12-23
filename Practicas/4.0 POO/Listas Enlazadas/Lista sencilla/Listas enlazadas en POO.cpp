@@ -17,19 +17,22 @@ class LinkedList
 {
     public:
     Node *head;
+
     //function to add Node at front
     void addAtFront(Node *n) 
     {
         n->next = head;
         head = n;
     }
-    //function to check whether the list is empty
+
+    //funcion para verificar si la lista esta vacia
     bool isEmpty() 
     {
         if(head == NULL) { return 1; }
         else { return 0; }
     }
-    //function to add Node at the end
+
+    //funcion par agregar un nodo al final
     void addAtEnd(Node *n) 
     {
         if(head == NULL) 
@@ -44,7 +47,7 @@ class LinkedList
         }
     }
 
-    //function to get the last Node
+    //funcion que retorna el ultimo elemento de la lista
     Node* getLastNode() 
     {
         Node* ptr = head;
@@ -54,7 +57,7 @@ class LinkedList
         return ptr;
     }
 
-    //function to search a value
+    //funcion para buscar un valor el la lista
     Node* search(int k) 
     {
         Node *ptr = head;
@@ -64,7 +67,7 @@ class LinkedList
         return ptr;
     }
 
-    //function to delete any Node
+    //funcion para eliminar un nodo de la lista
     Node* deleteNode(int x) 
     {
         Node *n = search(x);
@@ -86,7 +89,7 @@ class LinkedList
         }
     }
 
-    //function to print the list Nodes
+    //funcion para imprimir la lista
     void printList() 
     {
         Node *ptr = head;
@@ -98,11 +101,12 @@ class LinkedList
         }
     }
 
-    LinkedList() 
+    LinkedList() //contructor
     {
         head = NULL;
     }
 };
+
 
 int main() 
 {
