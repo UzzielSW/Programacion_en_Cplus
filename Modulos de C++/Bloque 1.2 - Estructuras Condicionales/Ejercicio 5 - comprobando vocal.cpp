@@ -1,5 +1,5 @@
-/*5. Escriba un programa que lea de la entrada est�ndar un car�cter e indique 
-en la salida est�ndar si el car�cter es una vocal min�scula o no.*/
+/*5. Escriba un programa que lea de la entrada estandar un caracter e indique 
+en la salida estandar si el caracter es una vocal minuscula o no.*/
 #include<iostream>
 using namespace std;
 
@@ -17,6 +17,7 @@ int main()
 		case 'i':
 		case 'o':
 		case 'u': cout<<"Es una vocal minuscula"; break;
+		default: cout<<"\n No es vocal minuscula";
 	}
 		
 	return 0;

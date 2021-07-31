@@ -1,5 +1,5 @@
-/*8. Escriba un programa que lea de la entrada estándar los dos catetos de un 
-triángulo rectángulo y escriba en la salida estándar su hipotenusa.*/
+/*8. Escriba un programa que lea de la entrada estandar los dos catetos de un 
+triangulo rectangulo y escriba en la salida estandar su hipotenusa.*/
 #include<iostream>
 #include<math.h>
 using namespace std;

@@ -1,16 +1,16 @@
-//1. Escribe la siguiente expresión como expresión en C++: (a/b) + 1
+//1. Escribe la siguiente expresion como expresion en C++: (a/b) + 1
 #include<iostream>
 using namespace std;
 
 int main()
 {
-	float a,b;
+	float n1, n2;
 	
-	cout<<"Digite el valor de a: "; cin>>a;
-	cout<<"Digite el valor de b: ";	cin>>b;
+	cout<<"Digite el valor de a: "; cin>>n1; 
+	cout<<"Digite el valor de b: ";	cin>>n2;
 	
-	cout.precision(2);//recorta los números despues de la coma decimal a 2
-	cout<<"El resultado es: "<< ((b != 0)? ((a / b) + 1) : 0);	
+	cout.precision(2); //recorta los numeros despues de la coma decimal a 2
+	cout<<"El resultado es: "<< ((n2 != 0)? ((n1/n2) + 1) : 0);	
 	
 	return 0;
 }

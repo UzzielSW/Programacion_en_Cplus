@@ -17,8 +17,7 @@ int main()
 		
 	}while( ((numero < 20) || (numero > 30)) && (numero != 0) );
 	
-	cout<<"\nLa suma de todos los numeros mayores a cero es: "<<suma<<endl;
+	cout<<"\nLa suma de todos los numeros distintos a cero y fuera del rango es: "<<suma<<endl;
 	
-	getchar();
 	return 0;
 }

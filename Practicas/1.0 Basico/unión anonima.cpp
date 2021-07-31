@@ -1,7 +1,6 @@
 // Uso de una union anonima.
 #include <iostream>
 #include <stdlib.h>
-#include <conio.h">
 using namespace std;
 
 int main()

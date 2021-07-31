@@ -1,4 +1,4 @@
-/*1. Escriba un programa que lea dos n�meros y determine cu�l de ellos es 
+/*1. Escriba un programa que lea dos numeros y determine cual de ellos es 
 el mayor.*/
 #include<iostream>
 using namespace std;

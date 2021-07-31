@@ -1,5 +1,5 @@
-/*8. Escribe un programa que lea de la entrada est�ndar tres n�meros. Despu�s 
-debe leer un cuarto n�mero e indicar si el n�mero coincide con alguno de los 
+/*8. Escribe un programa que lea de la entrada estandar tres numeros. Despues 
+debe leer un cuarto numero e indicar si el numero coincide con alguno de los 
 introducidos con anterioridad.*/
 #include<iostream>
 using namespace std;

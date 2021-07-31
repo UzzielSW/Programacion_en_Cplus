@@ -1,4 +1,4 @@
-/*5. Desarrolle un programa que lea de la entrada est�ndar un vector de enteros 
+/*5. Desarrolle un programa que lea de la entrada estandar un vector de enteros 
 y determine el mayor elemento del vector.*/
 #include<iostream>
 using namespace std;
@@ -21,6 +21,5 @@ int main()
 	
 	cout<<"\nEl mayor elemento del vector es: "<< mayor <<endl;
 	
-	getchar();	
 	return 0;
 }

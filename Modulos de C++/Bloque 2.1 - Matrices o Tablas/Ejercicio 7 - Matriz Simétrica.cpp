@@ -1,5 +1,5 @@
-/*7. Desarrollar un programa que determine si una matriz es sim�trica o no. Una matriz
-es sim�trica si es cuadrada y si es igual a su matriz transpuesta.
+/*7. Desarrollar un programa que determine si una matriz es simetrica o no. Una matriz
+es simetrica si es cuadrada y si es igual a su matriz transpuesta.
 
 
 |8 1 3|        |8 1 3|
@@ -42,6 +42,5 @@ int main()
 	else
 		cout<<"\nNo es una matriz simetrica";
 	
-	getchar();
 	return 0;
 }

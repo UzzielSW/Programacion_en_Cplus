@@ -1,6 +1,6 @@
-/*2. Realice un programa que lea de la entrada est�ndar n�meros hasta que se 
+/*2. Realice un programa que lea de la entrada estandar numeros hasta que se 
 introduzca un cero. En ese momento el programa debe terminar y mostrar en la 
-salida est�ndar el n�mero de valores mayores que cero le�dos.*/
+salida estandar el numero de valores mayores que cero leidos.*/
 #include<iostream>
 using namespace std;
 
@@ -18,6 +18,5 @@ int main()
 	
 	cout<<"\nEl total de numeros mayores que 0 es: "<<conteo;
 	
-	getchar();
 	return 0;
 }

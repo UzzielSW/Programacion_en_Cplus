@@ -1,6 +1,5 @@
 //8. Escriba un programa que calcule el valor de: 1+3+5+...+2n-1
 #include<iostream>
-#include<stdlib.h>
 using namespace std;
 
 int main()
@@ -15,6 +14,5 @@ int main()
 	
 	cout<<"La suma es: "<<suma<<endl;
 	
-	system("pause");
 	return 0;
 }

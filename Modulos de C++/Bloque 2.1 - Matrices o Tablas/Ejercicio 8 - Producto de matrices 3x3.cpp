@@ -27,6 +27,5 @@ int main()
 		cout<<"\n";
 	}	
 	
-	getchar();
 	return 0;
 }

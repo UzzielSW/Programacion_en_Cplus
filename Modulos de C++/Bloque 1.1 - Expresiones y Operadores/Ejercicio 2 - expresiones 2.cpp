@@ -1,4 +1,4 @@
-//2. Escribe la siguiente expresión como expresión en C++: (a+b)/(c+d) 
+//2. Escribe la siguiente expresion como expresion en C++: (a+b)/(c+d) 
 #include<iostream>
 using namespace std;
 

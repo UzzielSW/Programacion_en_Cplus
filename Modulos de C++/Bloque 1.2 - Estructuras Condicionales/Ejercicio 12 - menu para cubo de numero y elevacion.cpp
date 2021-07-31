@@ -1,4 +1,4 @@
-/*12. Hacer un men� que considere las siguientes opciones:
+/*12. Hacer un menu que considere las siguientes opciones:
 	Caso 1: Cubo de un numero
 	Caso 2: Numero par o impar
 	Case 3: salir.
@@ -27,11 +27,7 @@ int main()
 		
 		case 2: 
 			cout<<"\nDigite un numero: "; cin>>numero;
-			
-			if((numero % 2) == 0)
-				cout<<"El numero es par";
-			else
-				cout<<"El numero es impar";
+			cout<<"El numero es "<< ((numero % 2 == 0)? "par": "impar");
 		break;
 
 		case 3: break;

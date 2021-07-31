@@ -1,4 +1,4 @@
-/*1. Hacer un programa para rellenar una matriz pidiendo al usuario el n�mero de filas
+/*1. Hacer un programa para rellenar una matriz pidiendo al usuario el numero de filas
 y columnas, Posteriormente mostrar la matriz en pantalla.*/
 #include<iostream>
 using namespace std;
@@ -28,6 +28,5 @@ int main()
 		cout<<"\n";
 	}
 	
-	getchar();
 	return 0;
 }

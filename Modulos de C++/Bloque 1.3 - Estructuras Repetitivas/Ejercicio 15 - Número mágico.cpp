@@ -1,13 +1,12 @@
-/*15. Realice un programa que solicite al usuario que piense un n�mero entero 
+/*15. Realice un programa que solicite al usuario que piense un numero entero 
 entre el 1 y el 100. El programa debe generar un numero aleatorio en ese mismo
 rango[1-100],e indicarle al usuario si el numero que digito es menor o mayor 
-al numero aleatorio, as� hasta que lo adivine. y por ultimo mostrarle el numero
+al numero aleatorio, asi hasta que lo adivine. y por ultimo mostrarle el numero
 de intentos que le llevo.
 
 variable = limite_inferior + rand() % (limite_superior +1 - limite_inferior);
 */
 #include<iostream>
-#include<stdlib.h>
 #include<time.h>
 using namespace std;
 
@@ -28,9 +27,8 @@ int main()
 		contador++;
 	}while(numero != dato);
 	
-	cout<<"\n�FELICIDADES ADIVINO EL NUMERO!"<<endl;
+	cout<<"\nFELICIDADES ADIVINO EL NUMERO!"<<endl;
 	cout<<"Numero de intentos: "<<contador<<endl;
 	
-	system("pause");
 	return 0;
 }

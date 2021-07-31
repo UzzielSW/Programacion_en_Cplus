@@ -1,5 +1,5 @@
-/*6. Escribe un programa que defina un vector de n�meros y calcule si existe 
-alg�n n�mero en el vector cuyo valor equivale a la suma del resto de n�meros 
+/*6. Escribe un programa que defina un vector de numeros y calcule si existe 
+algun numero en el vector cuyo valor equivale a la suma del resto de numeros 
 del vector.*/
 #include<iostream>
 using namespace std;
@@ -22,6 +22,5 @@ int main()
 	else
 		cout<<"No existe ningun numero que sea la suma de los demas";
 	
-	getchar();
 	return 0;
 }

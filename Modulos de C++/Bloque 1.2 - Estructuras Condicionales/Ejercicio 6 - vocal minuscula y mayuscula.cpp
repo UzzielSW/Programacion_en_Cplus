@@ -1,6 +1,6 @@
-/*6. Escriba un programa que lea de la entrada est�ndar un car�cter e indique 
-en la salida est�ndar si el car�cter es una vocal min�scula, es una vocal 
-may�scula o no es una vocal.*/
+/*6. Escriba un programa que lea de la entrada estandar un caracter e indique 
+en la salida estandar si el caracter es una vocal minuscula, es una vocal 
+mayuscula o no es una vocal.*/
 #include<iostream>
 using namespace std;
 

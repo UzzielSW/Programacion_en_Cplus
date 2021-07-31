@@ -1,5 +1,5 @@
-/*1. Realice un programa que solicite de la entrada est�ndar un entero del 1 al 
-10 y muestre en la salida est�ndar su tabla de multiplicar.*/
+/*1. Realice un programa que solicite de la entrada estandar un entero del 1 al 
+10 y muestre en la salida estandar su tabla de multiplicar.*/
 #include<iostream>
 using namespace std;
 
@@ -14,6 +14,5 @@ int main()
 	for(int i=1; i <= 20; i++)
 		cout<<numero<<" * "<<i<<" = "<<(numero * i)<<endl;
 	
-	getchar();	
 	return 0;
 }

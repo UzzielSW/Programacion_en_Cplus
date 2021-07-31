@@ -1,6 +1,7 @@
 // Uso de goto.
 #include <iostream>
 #include <iomanip>
+using namespace std;
 
 int main()
 {
@@ -15,7 +16,7 @@ int main()
 	cout << setw( 2 ) << left << cuenta;
 	++cuenta;
 
-	// va hasta inicio en la línea 17
+	// va hasta inicio en la linea 17
 	goto inicio;
 
 	fin: // etiqueta

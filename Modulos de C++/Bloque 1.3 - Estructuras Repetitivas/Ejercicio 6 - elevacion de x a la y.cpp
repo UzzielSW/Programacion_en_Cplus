@@ -1,5 +1,5 @@
 /*6. Escriba un programa que calcule x^y, donde tanto x como y son enteros 
-positivos, sin utilizar la funci�n pow.*/
+positivos, sin utilizar la funcion pow.*/
 #include<iostream>
 using namespace std;
 
@@ -15,6 +15,5 @@ int main()
 	
 	cout<<"\nEl resultado de la elevacion es: "<< elevacion;
 	
-	getchar();
 	return 0;
 }

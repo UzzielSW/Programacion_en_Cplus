@@ -1,5 +1,5 @@
-/*11. Hacer un programa que simule un cajero autom�tico con un saldo inicial 
-de 1000 D�lares.*/
+/*11. Hacer un programa que simule un cajero automatico con un saldo inicial 
+de 1000 Dolares.*/
 #include<iostream>
 using namespace std;
 

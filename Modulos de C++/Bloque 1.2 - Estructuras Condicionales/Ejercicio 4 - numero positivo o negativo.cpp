@@ -1,4 +1,4 @@
-//4. Comprobar si un n�mero digitado por el usuario es positivo o negativo.
+//4. Comprobar si un numero digitado por el usuario es positivo o negativo.
 #include<iostream>
 using namespace std;
 
@@ -9,12 +9,13 @@ int main()
 	cout<<"Digite un numero: "; 
 	cin>>numero;
 	
+	cout<<"\n El numero es ";
 	if(numero == 0)
-		cout<<"El numero es cero";
+		cout<<"cero";
 	else if(numero > 0)
-		cout<<"El numero es positivo";
+		cout<<"positivo";
 	else
-		cout<<"El numero es negativo";
+		cout<<"negativo";
 	
 	return 0;
 }

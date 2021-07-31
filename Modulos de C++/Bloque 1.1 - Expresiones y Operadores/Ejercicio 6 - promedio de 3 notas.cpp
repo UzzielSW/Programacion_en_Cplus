@@ -11,7 +11,7 @@ int main()
 	cout<<"Ingrese nota2: "; cin>>nota2;
 	cout<<"Ingrese nota3: "; cin>>nota3;
 	
-	cout<<"la final media es:"<<((nota1 + nota2 + nota3) / 3);
+	cout<<"la final media es: "<<((nota1 + nota2 + nota3) / 3);
 	
 	return 0;
 }

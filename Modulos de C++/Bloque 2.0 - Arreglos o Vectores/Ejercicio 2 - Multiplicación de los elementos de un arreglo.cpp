@@ -1,5 +1,5 @@
-/*2. Escribe un programa que defina un vector de n�meros y calcule la 
-multiplicaci�n acumulada de sus elementos.*/
+/*2. Escribe un programa que defina un vector de numeros y calcule la 
+multiplicacion acumulada de sus elementos.*/
 #include<iostream>
 using namespace std;
 
@@ -13,6 +13,5 @@ int main()
 	
 	cout<<"La multiplicacion de los elementos es: "<<multiplicacion<<endl;
 	
-	getchar();
 	return 0;
 }

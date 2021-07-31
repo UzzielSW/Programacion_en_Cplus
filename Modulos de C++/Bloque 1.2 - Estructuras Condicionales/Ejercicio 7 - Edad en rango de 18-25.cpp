@@ -1,5 +1,5 @@
 /*7. Escriba un programa que solicite una edad (un entero) e indique en la 
-salida est�ndar si la edad introducida est� en el rango [18-25].*/
+salida estandar si la edad introducida esta en el rango [18-25].*/
 #include<iostream>
 using namespace std;
 
@@ -10,10 +10,11 @@ int main()
 	cout<<"Digite su edad: "; 
 	cin>>edad;
 	
+	cout<<"\n Su edad esta ";
 	if((edad >= 18) && (edad <= 25))
-		cout<<"Su edad esta en el rango de [18-25]";
+		cout<<"en el rango de [18-25]";
 	else
-		cout<<"Su edad esta fuera de rango";
+		cout<<"fuera de rango";
 	
 	return 0;
 }

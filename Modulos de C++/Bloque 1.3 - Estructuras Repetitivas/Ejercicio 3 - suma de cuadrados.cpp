@@ -1,4 +1,4 @@
-/*3. Realice un programa que calcule y muestre en la salida est�ndar la suma de 
+/*3. Realice un programa que calcule y muestre en la salida estandar la suma de 
 los cuadrados de los 10 primeros enteros mayores que cero.*/
 #include<iostream>
 #include<math.h>
@@ -13,6 +13,5 @@ int main()
 	
 	cout<<"\nLa suma de los cuadrados es: "<< suma;
 	
-	getchar();
 	return 0;
 }

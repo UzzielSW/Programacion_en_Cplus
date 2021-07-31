@@ -1,4 +1,4 @@
-//3. Escribe la siguiente expresión como expresión en C++: (a+(b/c))/(d+(e/f))
+//3. Escribe la siguiente expresion como expresion en C++: (a+(b/c))/(d+(e/f))
 #include<iostream>
 using namespace std;
 
@@ -18,7 +18,7 @@ int main()
 	if( (c != 0) && (f != 0) && (((d + (e / f)) != 0)) )
 		cout<<"El resultado es: "<<(a + (b / c))/(d + (e / f));
 	else 
-		cout<<"\n no div by zero";
+		cout<<"\n no division entre cero";
 	
 	return 0;
 }

@@ -1,11 +1,11 @@
-/*14. En una clase de 5 alumnos se han realizado tres ex�menes y se requiere 
-determinar el n�mero de: 
-	a) Alumnos que aprobaron todos los ex�menes.
+/*14. En una clase de 5 alumnos se han realizado tres examenes y se requiere 
+determinar el numero de: 
+	a) Alumnos que aprobaron todos los examenes.
 	b) Alumnos que aprobaron al menos un examen.
-	c) Alumnos que aprobaron �nicamente el �ltimo examen.
+	c) Alumnos que aprobaron unicamente el ultimo examen.
 	
-Realice un programa que permita la lectura de los datos y el c�lculo de las 
-estad�sticas.
+Realice un programa que permita la lectura de los datos y el calculo de las 
+estadasticas.
 */
 #include<iostream>
 using namespace std;

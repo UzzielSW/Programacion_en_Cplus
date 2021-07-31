@@ -24,6 +24,5 @@ int main()
 	for(int i=0; i < 5; i++)
 		cout<< numeros2[i] <<endl;
 	
-	getchar();
 	return 0;
 }

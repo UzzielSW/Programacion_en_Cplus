@@ -1,10 +1,9 @@
-/*16. Realice un programa que calcule la descomposici�n en factores primos de 
-un n�mero entero.
+/*16. Realice un programa que calcule la descomposicion en factores primos de 
+un numero entero.
 
 Por ejemplo: 20 = 2*2*5.
 */
 #include<iostream>
-#include<stdlib.h>
 using namespace std;
 
 int main()
@@ -24,7 +23,6 @@ int main()
 		}
 	}
 	
-	cout<<"\n";
-	system("pause");
+	cout<<endl;
 	return 0;
 }

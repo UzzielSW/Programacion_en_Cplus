@@ -1,6 +1,5 @@
 //13. Hacer un que realize la serie fibonacci -> 1 1 2 3 5 8 13...n  
 #include<iostream>
-#include<stdlib.h>
 using namespace std;
 
 int main()
@@ -21,7 +20,6 @@ int main()
 		y = z;		
 	}
 	
-	cout<<"\n";
-	system("pause");
+	cout<<endl;
 	return 0;
 }

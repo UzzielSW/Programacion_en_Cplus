@@ -1,8 +1,7 @@
 /*4. Hacer una matriz preguntando al usuario el numero de filas y columnas,llenarla de
-n�meros aleatorios, copiar el contenido a otra matriz y por �ltimo mostrarla en 
+numeros aleatorios, copiar el contenido a otra matriz y por ultimo mostrarla en 
 pantalla.*/
 #include<iostream>
-#include<stdlib.h>
 #include<time.h>
 using namespace std;
 
@@ -38,6 +37,5 @@ int main()
 		cout<<"\n";
 	}
 	
-	system("pause");
 	return 0;
 }

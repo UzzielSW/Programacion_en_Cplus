@@ -1,5 +1,5 @@
-/*3. Escribe un programa que lea de la entrada est�ndar un vector de n�meros y 
-muestre en la salida est�ndar los n�meros del vector con sus �ndices asociados.*/
+/*3. Escribe un programa que lea de la entrada estandar un vector de numeros y 
+muestre en la salida estandar los numeros del vector con sus indices asociados.*/
 #include<iostream>
 using namespace std;
 
@@ -20,6 +20,5 @@ int main()
 	for(int i=0; i < n; i++)
 		cout<< i <<" -> "<< numeros[i] <<endl; //Mostrando los numeros
 		
-	getchar();
 	return 0;
 }

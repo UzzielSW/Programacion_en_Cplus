@@ -19,6 +19,5 @@ int main()
 	for(int i=0; i < 3; i++)
 		cout<<numeros[i][i]<<endl;
 	
-	getchar();
 	return 0;
 }

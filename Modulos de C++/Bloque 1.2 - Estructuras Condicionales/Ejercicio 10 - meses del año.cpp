@@ -1,4 +1,4 @@
-/*10. Mostrar los meses del a�o, pidi�ndole al usuario un n�mero entre (1-12), 
+/*10. Mostrar los meses del year, pidiendole al usuario un numero entre (1-12), 
 y mostrar el mes al que corresponde. */
 #include<iostream>
 using namespace std;

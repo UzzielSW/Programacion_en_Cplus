@@ -1,7 +1,6 @@
 /*10. Escriba un programa que calcule el valor de: 1!+2!+3!+...+n! 
 (suma de factoriales).*/
 #include<iostream>
-#include<stdlib.h>
 using namespace std;
 
 int main()
@@ -18,7 +17,6 @@ int main()
 	}
 	
 	cout<<"\nLa suma de factoriales es: "<<suma<<endl;
-	system("pause");
 	
 	return 0;
 }
