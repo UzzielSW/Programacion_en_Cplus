@@ -1,4 +1,4 @@
-/*Ejercicio 10: Realice un programa que lea una matriz din�mica de NxM y cree su 
+/*Ejercicio 10: Realice un programa que lea una matriz dinamica de NxM y cree su 
 matriz traspuesta. 
 La matriz traspuesta es aquella en la que la columna i era la fila i de la matriz 
 original.
@@ -25,7 +25,6 @@ int main()
 		delete[] puntero_matriz[i];
 	delete[] puntero_matriz;
 	
-	getchar();
 	return 0;
 }
 
@@ -37,7 +36,7 @@ void pedirDatos()
 	cout<<"Digite el numero de columnas: ";
 	cin>>nCol;
 	
-	//Reservar memoria para la matriz din�mica
+	//Reservar memoria para la matriz dinamica
 	puntero_matriz = new int*[nFilas]; //Reservando memoria para las filas
 	for(int i=0; i < nFilas; i++)
 		puntero_matriz[i] = new int[nCol]; //Reservando memoria para las columnas

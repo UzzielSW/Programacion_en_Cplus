@@ -1,5 +1,5 @@
-/*2. Hacer una estructura llamada alumno, en la cual se tendr�n los siguientes
-Campos: Nombre, edad, promedio, pedir datos al usuario para 3 alumnos, comprobar cu�l 
+/*2. Hacer una estructura llamada alumno, en la cual se tendran los siguientes
+Campos: Nombre, edad, promedio, pedir datos al usuario para 3 alumnos, comprobar cual 
 de los 3 tiene el mejor promedio y posteriormente imprimir los datos del alumno.*/
 #include<iostream>
 using namespace std;
@@ -37,6 +37,5 @@ int main()
 		<<"\nEdad: "<<alumnos[pos].edad
 		<<"\nPromedio: "<<alumnos[pos].promedio<<endl;
 	
-	getchar();
 	return 0;
 }

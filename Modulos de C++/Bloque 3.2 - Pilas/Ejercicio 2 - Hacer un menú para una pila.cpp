@@ -23,7 +23,6 @@ void sacarPila(Nodo *&, char &);
 int main()
 {
 	menu();
-	getchar();
 	return 0;
 }
 
@@ -67,7 +66,6 @@ void menu()
 		system("pause");
 		system("cls"); //limpiar pantalla
 	}while(opcion != 3);
-	
 }
 
 void agregarPila(Nodo *&pila, char n)

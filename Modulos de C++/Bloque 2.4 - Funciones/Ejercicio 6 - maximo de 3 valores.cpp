@@ -1,6 +1,6 @@
-/*Ejercicio 6: Escriba una plantilla de funci�n llamada maximo() que devuelva el valor 
-m�ximo de tres argumentos que se transmitan a la funci�n cuando sea llamada.
-Suponga que los tres argumentos ser�n del mismo tipo de datos.*/
+/*Ejercicio 6: Escriba una plantilla de funcion llamada maximo() que devuelva el valor 
+maximo de tres argumentos que se transmitan a la funcion cuando sea llamada.
+Suponga que los tres argumentos seran del mismo tipo de datos.*/
 #include<iostream>
 using namespace std;
 
@@ -13,7 +13,6 @@ int main()
 	
 	cout<<"El maximo valor es: "<<maximo(dato1, dato2, dato3);
 	
-	getchar();
 	return 0;
 }
 

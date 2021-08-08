@@ -1,5 +1,5 @@
-/*Ejercicio 11: Hacer una estructura llamada alumno,  en la cual se tendrán los siguientes
-Campos: Nombre,  edad,  promedio,  pedir datos al usuario para 3 alumnos,  comprobar cuál 
+/*Ejercicio 15: Hacer una estructura llamada alumno,  en la cual se tendran los siguientes
+Campos: Nombre,  edad,  promedio,  pedir datos al usuario para 3 alumnos, comprobar cual 
 de los 3 tiene el mejor promedio y posteriormente imprimir los datos del alumno.
 NOTA: Usar punteros a estructura*/
 #include<iostream>
@@ -29,7 +29,6 @@ int main()
 	pedirDatos(puntero_alumno, tam);	
 	comprobarMejorPromedio(puntero_alumno, tam);
 	
-	getchar();
 	return 0;
 }
 

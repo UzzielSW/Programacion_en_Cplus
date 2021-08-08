@@ -1,9 +1,9 @@
-/*Ejercicio 22: Escriba una funci�n escribeNumeros(int ini, int fin) que devuelva 
-en la salida est�ndar los n�meros del ini al fin. Escriba una versi�n que escriba los 
-n�meros en orden ascendente.
+/*Ejercicio 22: Escriba una funcion escribeNumeros(int ini, int fin) que devuelva 
+en la salida estandar los numeros del ini al fin. Escriba una version que escriba los 
+numeros en orden ascendente.
 
-		escribeNumeros(ini,fin) = ini                             , si ini=fin
-								  escribeNumeros(ini,fin-1)       , si fin>ini
+	escribeNumeros(ini,fin) = ini   , si ini=fin
+	escribeNumeros(ini,fin-1)       , si fin>ini
 */
 #include<iostream>
 using namespace std;
@@ -26,7 +26,6 @@ int main()
 	for(int i = ini; i <= fin; i++)
 		cout<<escribeNumeros(i, fin)<<" ";
 	
-	getchar();
 	return 0;
 } 
 

@@ -23,7 +23,6 @@ void suprimirCola(Nodo *&, Nodo *&, char &);
 int main()
 {
 	menu();
-	getchar();
 	return 0;
 }
 
@@ -72,7 +71,7 @@ void menu()
 	}while(opc != 3);
 }
 
-//Funci�n para insertar elementos en la cola
+//Funcion para insertar elementos en la cola
 void insertarCola(Nodo *&frente, Nodo *&fin, char n)
 {
 	Nodo *nuevo_nodo = new Nodo();
@@ -89,7 +88,7 @@ void insertarCola(Nodo *&frente, Nodo *&fin, char n)
 }
 
 
-//Funci�n para eliminar elementos de la cola
+//Funcion para eliminar elementos de la cola
 void suprimirCola(Nodo *&frente, Nodo *&fin, char &n)
 {
 	n = frente->dato;

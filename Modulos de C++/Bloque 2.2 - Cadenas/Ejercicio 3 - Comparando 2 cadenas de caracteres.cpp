@@ -21,6 +21,5 @@ int main()
 	else
 		cout<<palabra2<<" es mayor alfabeticamente";
 	
-	getchar();
 	return 0;
 } 

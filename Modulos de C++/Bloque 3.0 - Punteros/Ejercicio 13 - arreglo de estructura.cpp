@@ -10,7 +10,7 @@
 		2.imprime
 		3.buscar por tipo
 		4.salir
- */
+*/
 #include <iostream>
 #include <string.h>
 #include <stdlib.h>
@@ -22,7 +22,6 @@ struct datosmascotas
 	string nombre, tipo;
 	float precio;
 }mascotas[50], *ptr_mascotas = mascotas;
-
 
 int main()
 {
@@ -73,7 +72,7 @@ int carga(int cant)
 
 		cout<<" tipo de mascota: "; getline(cin,(mascotas+i)->tipo);
 
-		cout<<" codigo de la mascota: "; cin.getline((mascotas+i)->codigo,20,'\n');
+		cout<<" codigo de la mascota: "; cin.getline((mascotas+i)->codigo, 20, '\n');
 	}
 
 	cant += N;
@@ -102,10 +101,10 @@ void buscarTipo(int cant)
 	{
 		if ((mascotas + i)->tipo == busca)
 		{
-		cout<<"\n mascota ["<<(i + 1)<<"]:\n";
-		cout<<" nombre de la mascota: "<<(mascotas + i)->nombre<<endl;
-		cout<<" precio de la mascota: "<<(mascotas + i)->precio<<endl;
-		cout<<" codigo de la mascota: "<<(mascotas + i)->codigo<<endl;
+			cout<<"\n mascota ["<<(i + 1)<<"]:\n";
+			cout<<" nombre de la mascota: "<<(mascotas + i)->nombre<<endl;
+			cout<<" precio de la mascota: "<<(mascotas + i)->precio<<endl;
+			cout<<" codigo de la mascota: "<<(mascotas + i)->codigo<<endl;
 		}
 	}
 }

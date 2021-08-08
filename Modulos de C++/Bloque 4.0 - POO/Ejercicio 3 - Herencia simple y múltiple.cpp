@@ -1,8 +1,7 @@
 /*Ejercicio 3: Realice un programa en C++,  de tal manera que se construya una
-soluci�n para la jerarqu�a(herencia) de clases mostrada en la siguiente figura
+solucion para la jerarquia(herencia) de clases mostrada en la siguiente figura
 */
 #include<iostream>
-#include<stdlib.h>
 using namespace std;
 
 class Persona
@@ -109,6 +108,5 @@ int main()
 	universitario1.mostrarUniversitario();
 	cout<<"\n";
 	
-	system("pause");
 	return 0;
 }

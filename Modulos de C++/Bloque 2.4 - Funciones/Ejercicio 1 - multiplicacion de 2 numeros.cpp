@@ -1,5 +1,5 @@
-/*Ejercicio 1: Escriba una funci�n llamada mult() que acepte dos n�meros en punto 
-flotante como par�metros, multiplique estos dos n�meros y despliegue el resultado.*/
+/*Ejercicio 1: Escriba una funcion llamada mult() que acepte dos numeros en punto 
+flotante como parametros, multiplique estos dos numeros y despliegue el resultado.*/
 #include<iostream>
 using namespace std;
 
@@ -14,7 +14,6 @@ int main()
 	pedirDatos();
 	mult(n1, n2);
 	
-	getchar();
 	return 0;
 }
 

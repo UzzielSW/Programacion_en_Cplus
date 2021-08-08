@@ -1,5 +1,5 @@
-/*Ejercicio 5: Escriba una plantilla de funci�n llamada despliegue() que despliegue el valor
-del argumento �nico que se le transmite cuando es invocada la funci�n.*/
+/*Ejercicio 5: Escriba una plantilla de funcion llamada despliegue() que despliegue el valor
+del argumento unico que se le transmite cuando es invocada la funcion.*/
 //pantillas de funcion son para realizar una misma accion con diferentes tipos de variables
 #include<iostream>
 using namespace std;
@@ -19,7 +19,6 @@ int main()
 	despliegue(dato3);
 	despliegue(dato4);
 	
-	getchar();
 	return 0;
 }
 

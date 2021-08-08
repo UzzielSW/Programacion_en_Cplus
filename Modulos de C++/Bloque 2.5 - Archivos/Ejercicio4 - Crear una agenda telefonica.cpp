@@ -25,7 +25,6 @@ int main()
 {
 	menu();	
 	
-	system("pause");
 	return 0;
 }
 
@@ -49,7 +48,7 @@ void menu()
 			case 3: visualizar_contacto();	break;
 		}
 		cout<<"\n";
-		system("pause");
+		getchar();
 	}while(opcion != 4);
 }
 
@@ -91,7 +90,7 @@ void crear_contacto()
 	archivo.close(); //Cerramos el archivo	
 }
 
-//Funcion para agregar m�s contactos
+//Funcion para agregar mas contactos
 void agregar_contacto()
 {
 	ofstream archivo;

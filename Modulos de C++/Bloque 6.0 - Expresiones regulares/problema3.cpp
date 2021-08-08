@@ -11,6 +11,5 @@ int main()
 	//reemplaza expresiones regulares enparejados
 	cout<<regex_replace(texto, patron, replace);
 
-	getchar();
 	return 0;
 }

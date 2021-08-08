@@ -1,9 +1,9 @@
-/*Ejercicio 20: Realice una funci�n recursiva para la serie Fibonacci 
-Nota: La serie de Fibonacci est� formada por la secuencia de n�meros: 
+/*Ejercicio 20: Realice una funcion recursiva para la serie Fibonacci 
+Nota: La serie de Fibonacci esta formada por la secuencia de numeros: 
 0, 1, 1, 2, 3, 5, 8, 13, 21, 34... 
 
-	fibonacci(n) = n                              , si n<2
-				   fibonacci(n-1)+fibonacci(n-2)  , si n>=2
+	fibonacci(n) = n               , si n<2
+	fibonacci(n-1)+fibonacci(n-2)  , si n>=2
 
 */
 #include<iostream>
@@ -26,7 +26,6 @@ int main()
 	for(int i=0; i < nElementos; i++)
 		cout<<fibonacci(i)<<" , ";	
 	
-	getchar();
 	return 0;
 }
 

@@ -1,5 +1,5 @@
-/*5. Hacer 2 estructuras una llamada promedio que tendr� los siguientes campos:
-nota1, nota2, nota3; y otro llamada alumno que tendr� los siguientes miembros:
+/*5. Hacer 2 estructuras una llamada promedio que tendra los siguientes campos:
+nota1, nota2, nota3; y otro llamada alumno que tendra los siguientes miembros:
 nombre, sexo, edad; hacer que la estructura promedio este anidada en la
 estructura alumno, luego pedir todos los datos para un alumno, luego calcular su
 promedio, y por ultimo imprimir todos sus datos incluidos el promedio.*/
@@ -8,9 +8,7 @@ using namespace std;
 
 struct Promedio
 {
-	float nota1;
-	float nota2;
-	float nota3;
+	float nota1, nota2, nota3;
 };
 
 struct Alumno
@@ -45,6 +43,5 @@ int main()
 		<<"\nEdad: "<<alumno1.edad
 		<<"\nPromedio: "<<promedio_alumno<<endl;
 	
-	getchar();
 	return 0;
 }

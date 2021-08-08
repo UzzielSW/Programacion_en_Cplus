@@ -1,4 +1,4 @@
-/*Ejercicio 15: Desarrollar una funci�n que determine si una matriz es sim�trica o no.
+/*Ejercicio 15: Desarrollar una funcion que determine si una matriz es simetrica o no.
 
 Una matriz es simetrica: A = A^t
 
@@ -23,7 +23,6 @@ int main()
 	pedirDatos();
 	comprobarSimetria(m, nfilas, ncol);
 	
-	getchar();
 	return 0;
 }
 

@@ -1,6 +1,6 @@
-/*Ejercicio 2: Escriba una funci�n llamada al_cuadrado() que calcule el cuadrado del 
-valor que se le transmite y despliegue el resultado. La funci�n deber� ser capaz de
-elevar al cuadrado n�meros flotantes*/
+/*Ejercicio 2: Escriba una funcion llamada al_cuadrado() que calcule el cuadrado del 
+valor que se le transmite y despliegue el resultado. La funcion debera ser capaz de
+elevar al cuadrado numeros flotantes*/
 #include<iostream>
 using namespace std;
 
@@ -14,7 +14,6 @@ int main()
 	pedirDatos();	
 	al_cuadrado(numero);
 	
-	getchar();
 	return 0;
 }
 

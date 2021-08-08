@@ -1,8 +1,7 @@
-/*Ejercicio 5: Pedir al usuario N n�meros,  almacenarlos en un arreglo din�mico
-posteriormente ordenar los n�meros en orden ascendente y mostrarlos en pantalla.
-NOTA: Utilizar cualquier m�todo de ordenamiento. */
+/*Ejercicio 5: Pedir al usuario N numeros,  almacenarlos en un arreglo dinamico
+posteriormente ordenar los numeros en orden ascendente y mostrarlos en pantalla.
+NOTA: Utilizar cualquier metodo de ordenamiento. */
 #include<iostream>
-#include<stdlib.h>
 using namespace std;
 
 //Prototipos de Funciones
@@ -20,7 +19,6 @@ int main()
 	
 	delete[] elemento;
 	
-	getchar();
 	return 0;
 }
 

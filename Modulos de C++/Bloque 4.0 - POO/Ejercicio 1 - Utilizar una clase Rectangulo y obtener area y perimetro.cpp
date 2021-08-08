@@ -1,7 +1,6 @@
 /*Ejercicio 1: Construya una clase llamada Rectangulo que tenga los siguientes
 atributos: largo y ancho,  y los siguientes metodos: Perimetro() y Area()*/
 #include<iostream>
-#include<stdlib.h>
 using namespace std;
 
 class Rectangulo
@@ -38,6 +37,5 @@ int main()
 	r1.Perimetro();
 	r1.Area();
 	
-	system("pause");
 	return 0;
 }

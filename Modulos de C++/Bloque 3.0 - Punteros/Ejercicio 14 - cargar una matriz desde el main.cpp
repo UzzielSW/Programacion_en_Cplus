@@ -13,7 +13,6 @@ int main()
     carga(matriz, &nf, &nc);
     system("cls");
     imprime(matriz, nf, nc);
-    getchar();
 
     return 0;
 }

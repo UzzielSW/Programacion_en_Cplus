@@ -1,7 +1,7 @@
-/*Ejercicio 8: Escriba una funci�n nombrada cambio() que tenga un par�metro en n�mero
-entero y seis par�metros de referencia en n�mero entero nombrados cien, cincuenta,
-veinte, diez, cinco y uno, respectivamente. La funci�n tiene que considerar el
-valor entero transmitido como una cantidad en d�lares y convertir el valor en el n�mero
+/*Ejercicio 8: Escriba una funcion nombrada cambio() que tenga un parametro en numero
+entero y seis parametros de referencia en numero entero nombrados cien, cincuenta,
+veinte, diez, cinco y uno, respectivamente. La funcion tiene que considerar el
+valor entero transmitido como una cantidad en dolares y convertir el valor en el numero
 menor de billetes equivalentes. */
 #include<iostream>
 using namespace std;
@@ -25,7 +25,6 @@ int main()
 		<<"\nCinco: "<<cinco
 		<<"\nUno: "<<uno<<endl;
 	
-	getchar();
 	return 0;
 }
 

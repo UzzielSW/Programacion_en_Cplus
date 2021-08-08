@@ -28,6 +28,7 @@ int main()
 			mayor = e[i].salario;
 			posM = i;
 		}
+
 		//Empleado con menor salario
 		if(e[i].salario < menor)
 		{
@@ -45,6 +46,5 @@ int main()
 		<<"\nNombre: "<<e[posm].nombre
 		<<"\nSalario: "<<e[posm].salario<<endl;
 	
-	getchar();
 	return 0;
 }

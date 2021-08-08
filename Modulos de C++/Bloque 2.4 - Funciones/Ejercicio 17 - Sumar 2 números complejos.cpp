@@ -1,4 +1,4 @@
-/*Ejercicio 17: Suma de n�meros Complejos
+/*Ejercicio 17: Suma de numeros Complejos
 
 z1 = 5-3i   ,   z2 = -4+2i
 
@@ -15,7 +15,7 @@ struct Complejo
 	float real,imaginaria;
 }z1, z2;
 
-//Prototipo de Funci�n
+//Prototipo de Funcion
 void pedirDatos();
 Complejo suma(Complejo, Complejo);
 void muestra(Complejo);
@@ -28,7 +28,6 @@ int main()
 	
 	muestra(x);	
 	
-	getchar();
 	return 0;
 } 
 

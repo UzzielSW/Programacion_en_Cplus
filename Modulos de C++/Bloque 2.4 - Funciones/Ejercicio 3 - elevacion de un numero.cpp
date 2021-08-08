@@ -1,6 +1,6 @@
-/*Ejercicio 3: Escriba una funci�n nombrada funpot() que eleve un n�mero entero que 
-se le transmita a una potencia en n�mero entero positivo y despliegue el resultado.
-El n�mero entero positivo deber� ser el segundo valor transmitido a la funci�n.*/
+/*Ejercicio 3: Escriba una funcion nombrada funpot() que eleve un numero entero que 
+se le transmita a una potencia en numero entero positivo y despliegue el resultado.
+El numero entero positivo debera ser el segundo valor transmitido a la funcion.*/
 #include<iostream>
 using namespace std;
 
@@ -14,7 +14,6 @@ int main()
 	pedirDatos();
 	funpot(numero, exponente);
 	
-	getchar();
 	return 0;
 }
 

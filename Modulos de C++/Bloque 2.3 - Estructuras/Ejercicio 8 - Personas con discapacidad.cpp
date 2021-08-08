@@ -1,6 +1,6 @@
 /*8. Defina una estructura que sirva para representar a una persona. La estructura 
-debe contener dos campos: el nombre de la persona y un valor de tipo l�gico que indica
-si la persona tiene alg�n tipo de discapacidad. Realice un programa que dado un vector
+debe contener dos campos: el nombre de la persona y un valor de tipo logico que indica
+si la persona tiene algun tipo de discapacidad. Realice un programa que dado un vector
 de personas rellene dos nuevos vectores: uno que contenga las personas que no tienen
 ninguna discapacidad y otro que contenga las personas con discapacidad.*/
 #include<iostream>
@@ -51,6 +51,5 @@ int main(){
 	for(int i=0; i < n_personas; i++)
 		cout<<personasSinD[i].nombre<<endl;
 	
-	getchar();
 	return 0;
 }

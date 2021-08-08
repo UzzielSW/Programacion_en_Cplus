@@ -9,6 +9,5 @@ int main()
 
 	cout<<regex_replace(texto, patron, "\n");
 
-	getchar();
 	return 0;
 }

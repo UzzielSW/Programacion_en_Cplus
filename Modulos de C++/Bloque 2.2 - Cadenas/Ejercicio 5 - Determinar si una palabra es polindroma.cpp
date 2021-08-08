@@ -1,4 +1,4 @@
-//5. Hacer un programa que determine si una palabra es pol�ndroma
+//5. Hacer un programa que determine si una palabra es polindroma
 #include<iostream>
 #include<string.h>
 using namespace std;
@@ -20,6 +20,5 @@ int main()
 	else
 		cout<<"No es una palabra polindroma";
 	
-	getchar();
 	return 0;
 }

@@ -1,5 +1,5 @@
-/*Ejercicio 3: Rellenar un array de 10 n�meros, posteriormente utilizando punteros 
-indicar cuales son n�meros pares y su posicion en memoria. */
+/*Ejercicio 3: Rellenar un array de 10 numeros, posteriormente utilizando punteros 
+indicar cuales son numeros pares y su posicion en memoria. */
 #include<iostream>
 using namespace std;
 
@@ -25,6 +25,5 @@ int main()
 		dir_numeros++;
 	}
 	
-	getchar();
 	return 0;
 }

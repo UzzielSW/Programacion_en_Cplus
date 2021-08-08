@@ -1,11 +1,11 @@
-/*1. Hacer una estructura llamada corredor, en la cual se tendr�n los siguientes 
+/*1. Hacer una estructura llamada corredor, en la cual se tendran los siguientes 
 campos: Nombre, edad, sexo, club, pedir datos al usuario para un corredor, y asignarle
-una categor�a de competici�n:
-- Juvenil <= 18 a�os
-- Se�or <= 40 a�os
-- Veterano > 40 a�os
-Posteriormente imprimir todos los datos del corredor, incluida su categor�a de 
-competici�n.*/
+una categoria de competicion:
+- Juvenil <= 18 year
+- Senior <= 40 year
+- Veterano > 40 year
+Posteriormente imprimir todos los datos del corredor, incluida su categoria de 
+competicion.*/
 #include<iostream>
 #include<string.h>
 using namespace std;
@@ -43,6 +43,5 @@ int main()
 		<<"\nClub: "<< c1.club
 		<<"\nCategoria: "<<c1.categoria<<endl;
 	
-	getchar();
 	return 0;
 }

@@ -1,5 +1,5 @@
-/*Ejercicio 13: Realiza una funci�n que tome como par�metros un vector de n�meros y su
-tama�o y cambie el signo de los elementos del vector.*/
+/*Ejercicio 13: Realiza una funcion que tome como parametros un vector de numeros y su
+tamanio y cambie el signo de los elementos del vector.*/
 #include<iostream>
 using namespace std;
 
@@ -17,7 +17,6 @@ int main()
 	cambiarSigno(vec, tam);	
 	mostrarVector(vec, tam);
 	
-	getchar();
 	return 0;
 }
 

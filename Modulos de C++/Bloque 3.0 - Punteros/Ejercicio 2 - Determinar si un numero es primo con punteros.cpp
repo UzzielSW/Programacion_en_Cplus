@@ -1,5 +1,5 @@
-/*Ejercicio 2:  Determinar si un n�mero es primo o no; con puteros y adem�s indicar en
-que posicion de memoria se guardo el n�mero.*/
+/*Ejercicio 2:  Determinar si un numero es primo o no; con puteros y ademas indicar en
+que posicion de memoria se guardo el numero.*/
 #include<iostream>
 using namespace std;
 
@@ -25,6 +25,5 @@ int main()
 		cout<<"Direccion: "<<dir_num<<endl; //Mostramos su direccion en memoria
 	}
 	
-	getchar();
 	return 0;
 }

@@ -1,23 +1,21 @@
 /*Ejercicio 3: Realice un programa que pida al usuario el nombre o ubicacion 
-de un fichero de texto y, a continuaci�n a�ada texto en el hasta que el 
+de un fichero de texto y, a continuacion agrege texto en el hasta que el 
 usuario lo decida.*/ 
 #include<iostream>
-#include<stdlib.h>
 #include<string.h>
 #include<fstream>
 using namespace std;
 
-void aniadir();
+void agregar();
 
 int main()
 {
-	aniadir();
+	agregar();
 	
-	system("pause");
 	return 0;
 }
 
-void aniadir()
+void agregar()
 {
 	ofstream archivo;
 	string nombreArchivo, texto;

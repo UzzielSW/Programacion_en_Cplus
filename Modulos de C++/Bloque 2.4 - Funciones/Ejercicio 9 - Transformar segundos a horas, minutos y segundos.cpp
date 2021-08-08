@@ -1,6 +1,6 @@
-/*Ejercicio 9: Escriba una funci�n nombrada tiempo() que tenga un par�metro en n�mero 
-entero llamado totalSeg y tres par�metros de referencia enteros nombrados horas, min
-y seg. La funci�n es convertir el n�mero de segundos transmitido en un n�mero 
+/*Ejercicio 9: Escriba una funcion nombrada tiempo() que tenga un parametro en numero 
+entero llamado totalSeg y tres parametros de referencia enteros nombrados horas, min
+y seg. La funcion es convertir el numero de segundos transmitido en un numero 
 equivalente de horas, minutos y segundos.*/
 #include<iostream>
 using namespace std;
@@ -20,7 +20,6 @@ int main()
 		<<"Minutos: "<<min
 		<<"Segundos: "<<seg<<endl;
 	
-	getchar();
 	return 0;
 }
 

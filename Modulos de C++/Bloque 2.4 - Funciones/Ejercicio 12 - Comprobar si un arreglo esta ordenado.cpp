@@ -1,5 +1,5 @@
-/*Ejercicio 12: Realice una funci�n que tome como par�metros un vector y su tama�o y 
-diga si el vector est� ordenado crecientemente. Sugerencia: compruebe que para todas 
+/*Ejercicio 12: Realice una funcion que tome como parametros un vector y su tamanio y 
+diga si el vector esta ordenado crecientemente. Sugerencia: compruebe que para todas 
 las posiciones del vector,  salvo para la 0, el elemento del vector es mayor o igual que
 el elemento que le precede en el vector.*/
 #include<iostream>
@@ -15,7 +15,6 @@ int main()
 	pedirDatos();
 	comprobarOrdenamiento(vec, tam);
 	
-	getchar();
 	return 0;
 }
 

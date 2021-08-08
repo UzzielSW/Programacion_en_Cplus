@@ -1,7 +1,5 @@
-#include <regex> //libreria para manejo de expresiones
 #include <iostream>
-#include <string.h>
-#include <stdio.h>
+#include <regex> //libreria para manejo de expresiones
 using namespace std;
 
 int main()
@@ -23,6 +21,5 @@ int main()
             cout<<"\n";
     }
 
-    getchar();
     return 0;
 }

@@ -1,4 +1,4 @@
-/*Ejercicio 11: Realice una funci�n que tome como par�metros un vector de n�meros enteros
+/*Ejercicio 11: Realice una funcion que tome como parametros un vector de numeros enteros
 y devuelva la suma de sus elementos.*/
 #include<iostream>
 using namespace std;
@@ -14,7 +14,6 @@ int main()
 	
 	cout<<"\nLa suma es: "<<calcularSuma(vec, tam)<<endl;
 	
-	getchar();
 	return 0;
 }
 

@@ -1,10 +1,9 @@
 /*Ejercicio 2: Construya una clase Tiempo que contenga los siguientes atributos
 enteros: horas,  minutos y segundos. Haga que la clase contenga 2 constructores, 
-el primero debe tener 3 par�metros Tiempo(int, int, int) y el segundo s�lo 
-tendr� un campo que ser�n los segundos y desensamble el n�mero entero largo 
+el primero debe tener 3 parametros Tiempo(int, int, int) y el segundo solo 
+tendra un campo que seran los segundos y desensamble el numero entero largo 
 en horas,  minutos y segundos.*/
 #include<iostream>
-#include<stdlib.h>
 using namespace std;
 
 class Tiempo
@@ -47,6 +46,5 @@ int main()
 	hora1.mostrarTiempo();
 	hora2.mostrarTiempo();
 	
-	system("pause");
 	return 0;
 }

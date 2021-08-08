@@ -40,6 +40,5 @@ int main()
 		cout << "\n Escriba dos enteros o (ctrl+z) para terminar: ";
 	}
 
- 	getchar();
 	return 0; 
 }

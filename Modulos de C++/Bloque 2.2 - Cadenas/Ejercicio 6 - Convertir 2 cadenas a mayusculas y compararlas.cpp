@@ -21,6 +21,5 @@ int main()
 	else
 		cout<<"Las cadenas no son iguales";
 	
-	getchar();
 	return 0;
 }

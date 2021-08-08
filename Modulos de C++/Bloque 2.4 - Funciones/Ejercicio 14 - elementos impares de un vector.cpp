@@ -1,5 +1,5 @@
-/*Ejercicio 14: Realiza una funci�n que tome como par�metros un vector de enteros y su
-tama�o e imprima un vector con los elementos impares del vector recibido.*/
+/*Ejercicio 14: Realiza una funcion que tome como parametros un vector de enteros y su
+tamanio e imprima un vector con los elementos impares del vector recibido.*/
 #include<iostream>
 using namespace std;
 
@@ -13,7 +13,6 @@ int main()
 	pedirDatos();
 	impares(vec, tam);
 	
-	getchar();
 	return 0;
 }
 

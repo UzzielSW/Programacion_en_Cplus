@@ -1,6 +1,6 @@
 /*4. Hacer un arreglo de estructura llamada atleta para N atletas que contenga los
-siguientes campos: nombre, pa�s, numero_medallas. y devuelva los datos
-(Nombre, pa�s) del atleta que ha ganado el mayor n�mero de medallas.*/
+siguientes campos: nombre, pais, numero_medallas. y devuelva los datos
+(Nombre, pais) del atleta que ha ganado el mayor numero de medallas.*/
 #include<iostream>
 using namespace std;
 
@@ -40,6 +40,5 @@ int main()
 		<<"\nNombre: "<<atletas[posM].nombre
 		<<"\nPais: "<<atletas[posM].pais<<endl;
 	
-	getchar();
 	return 0;
 }

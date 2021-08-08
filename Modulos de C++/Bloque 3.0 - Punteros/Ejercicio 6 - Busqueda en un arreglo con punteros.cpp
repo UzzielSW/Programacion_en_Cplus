@@ -1,8 +1,7 @@
-/*Ejercicio 6: Hacer una funci�n para almacenar N n�meros en un arreglo din�mico,  
-posteriormente en otra funci�n buscar un n�mero en particular. 
-NOTA: Puedes utilizar cualquier m�todo de b�squeda(Secuencial o Binaria)*/ 
+/*Ejercicio 6: Hacer una funcion para almacenar N numeros en un arreglo dinamico,  
+posteriormente en otra funcion buscar un numero en particular. 
+NOTA: Puedes utilizar cualquier metodo de busqueda(Secuencial o Binaria)*/ 
 #include<iostream>
-#include<stdlib.h>
 using namespace std;
 
 void pedirDatos();
@@ -16,7 +15,6 @@ int main()
 	
 	delete[] elemento; //Liberar memoria utilizada en el arreglo
 	
-	getchar();
 	return 0;
 }
 
@@ -24,6 +22,10 @@ void pedirDatos()
 {
 	cout<<"Digite el numero de elementos del arreglo: ";
 	cin>>nElementos;
+	if(nElementos <= 0){
+		cout<<"\n No es posible realizar el proceso con valor introducido";
+		return;
+	}
 	
 	elemento = new int[nElementos]; //Crear el arreglo
 	
@@ -37,6 +39,8 @@ void pedirDatos()
 
 void busqueda(int *elemento, int nElementos)
 {
+	if(nElementos <= 0) return;
+
 	int dato, i;
 	bool band = false;
 	

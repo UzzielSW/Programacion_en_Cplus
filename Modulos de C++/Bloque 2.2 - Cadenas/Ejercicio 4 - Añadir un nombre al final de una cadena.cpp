@@ -1,5 +1,5 @@
 /*4. Crear una cadena que tenga la siguiente frase "Hola que tal", luego crear otra
-cadena para preguntarle al usuario su nombre, por ultimo a�adir el nombre al final de 
+cadena para preguntarle al usuario su nombre, por ultimo agregar el nombre al final de 
 la primera cadena y mostrar el mensaje completo "Hola que tal (NombreDelUsuario)".*/
 #include<iostream>
 #include<string.h>
@@ -17,6 +17,5 @@ int main()
 	
 	cout<<"Frase: "<<cad1<<endl;	
 	
-	getchar();
 	return 0;
 }

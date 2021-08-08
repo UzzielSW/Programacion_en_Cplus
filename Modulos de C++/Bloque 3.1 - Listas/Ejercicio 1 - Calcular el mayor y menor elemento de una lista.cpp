@@ -1,7 +1,6 @@
-/*Ejercicio 1: Crear una lista que almacene "n" n�meros enteros  y calcular el menor y mayor 
+/*Ejercicio 1: Crear una lista que almacene "n" numeros enteros  y calcular el menor y mayor 
 de ellos.*/
 #include<iostream>
-#include<stdlib.h>
 using namespace std;
 
 struct Nodo
@@ -34,8 +33,6 @@ int main()
 	
 	calcularMayorMenor(lista);	
 	
-	fflush(stdin);
-	getchar();
 	return 0;
 }
 

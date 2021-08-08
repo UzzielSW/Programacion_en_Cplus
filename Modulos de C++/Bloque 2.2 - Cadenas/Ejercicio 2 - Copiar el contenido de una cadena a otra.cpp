@@ -15,6 +15,5 @@ int main()
 	
 	cout<<"Frase: "<< frase2 <<endl;
 	
-	getchar();
 	return 0;
 }

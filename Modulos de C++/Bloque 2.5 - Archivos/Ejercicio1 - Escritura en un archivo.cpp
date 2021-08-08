@@ -1,8 +1,7 @@
 /*Ejercicio 1: Realice un programa que pida al usuario el nombre de un fichero 
-de texto y, a continuación permita almacenar al usuario tantas frases como el
+de texto y, a continuacion permita almacenar al usuario tantas frases como el
 usuario desee.*/
 #include<iostream>
-#include<stdlib.h>
 #include<fstream>
 using namespace std;
 
@@ -12,7 +11,6 @@ int main()
 {
 	escribirFrases();
 	
-	system("pause");
 	return 0;
 } 
 
@@ -34,7 +32,7 @@ void escribirFrases()
 		cin>>edades[i];
 
 	for (int i = 0; i < 5; i++)
-			archivo <<edades[i]<<" ";
+		archivo <<edades[i]<<" ";
 	
 	archivo.close();
 }

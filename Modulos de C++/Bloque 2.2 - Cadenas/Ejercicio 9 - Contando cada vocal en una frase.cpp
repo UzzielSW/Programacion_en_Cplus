@@ -1,5 +1,5 @@
-/*9. Realice un programa que lea una cadena de caracteres de la entrada est�ndar y 
-muestre en la salida est�ndar cu�ntas ocurrencias de cada vocal existen en la cadena.*/
+/*9. Realice un programa que lea una cadena de caracteres de la entrada estandar y 
+muestre en la salida estandar cuantas ocurrencias de cada vocal existen en la cadena.*/
 #include<iostream>
 #include<string.h>
 using namespace std;
@@ -31,6 +31,5 @@ int main()
 		<<"\nVocal o: "<< vocal_o
 		<<"\nVocal u: "<< vocal_u <<endl;
 		
-	getchar();
 	return 0;
 }

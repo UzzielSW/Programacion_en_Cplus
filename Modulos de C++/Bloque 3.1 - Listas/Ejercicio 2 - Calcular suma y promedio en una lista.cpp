@@ -1,4 +1,4 @@
-/*Ejercicio 2: Crear una lista que almacene "n" n�meros reales  y calcular su suma y promedio.*/
+/*Ejercicio 2: Crear una lista que almacene "n" numeros reales  y calcular su suma y promedio.*/
 #include<iostream>
 using namespace std;
 
@@ -32,7 +32,6 @@ int main()
 	
 	calcularSumaPromedio(lista); 
 	
-	getchar();
 	return 0;
 }
 

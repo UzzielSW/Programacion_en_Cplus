@@ -21,7 +21,6 @@ int main()
 	pedirDatos();
 	calcularTiempo(puntero_etapa);
 	
-	getchar();
 	return 0;
 }
 

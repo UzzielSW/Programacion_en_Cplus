@@ -1,5 +1,5 @@
-/*Ejercicio 1: Comprobar si un n�mero es par o impar, y se�alar la posicion de memoria 
-donde se est� guardando el n�mero. Con punteros.*/
+/*Ejercicio 1: Comprobar si un numero es par o impar, y senialar la posicion de memoria 
+donde se esta guardando el numero. Con punteros.*/
 #include<iostream>
 using namespace std;
 
@@ -14,6 +14,5 @@ int main()
 	cout<<"El numero: "<<*dir_numero<<" es "<< ( ((*dir_numero % 2) == 0)? "par" : "impar" ) <<endl;
 	cout<<"Posicion: "<<dir_numero<<endl;
 	
-	getchar();
 	return 0;
 }

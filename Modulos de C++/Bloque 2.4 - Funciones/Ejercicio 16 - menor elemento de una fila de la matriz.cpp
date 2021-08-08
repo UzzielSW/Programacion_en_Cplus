@@ -1,4 +1,4 @@
-/*Ejercicio 16: Realice una funci�n que dada una matriz y un n�mero de fila de la 
+/*Ejercicio 16: Realice una funcion que dada una matriz y un numero de fila de la 
 matriz devuelva el menor de los elementos almacenados en dicha fila.*/
 #include<iostream>
 using namespace std;
@@ -14,7 +14,6 @@ int main()
 	
 	cout<<"\nEl menor elemento de la fila seleccionada es: "<<comprobarMenorElemento(m, nfilas, ncol)<<endl;
 	
-	getchar();
 	return 0;
 }
 

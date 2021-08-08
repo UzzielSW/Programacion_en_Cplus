@@ -1,7 +1,6 @@
-/*Ejercicio 1: Hacer un programa para agregar n�meros enteros a una pila,  hasta que el
-usuario lo decida,  despu�s mostrar todos los n�meros introducidos en la pila.*/
+/*Ejercicio 1: Hacer un programa para agregar numeros enteros a una pila,  hasta que el
+usuario lo decida,  despues mostrar todos los numeros introducidos en la pila.*/
 #include<iostream>
-#include<stdlib.h>
 using namespace std;
 
 struct Nodo
@@ -10,7 +9,7 @@ struct Nodo
 	Nodo *siguiente;
 };
 
-//Prototipos de Funci�n
+//Prototipos de Funcion
 void agregarPila(Nodo *&, int); 
 void sacarPila(Nodo *&, int &);
 
@@ -39,7 +38,6 @@ int main()
 			cout<<dato<<".";
 	}
 	
-	getchar();
 	return 0;
 }
 

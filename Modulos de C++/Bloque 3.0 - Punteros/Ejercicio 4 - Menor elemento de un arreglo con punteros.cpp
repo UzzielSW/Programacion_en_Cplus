@@ -1,4 +1,4 @@
-/*Ejercicio 4: Rellenar un arreglo con n numeros,  posteriormente utilizando punteros
+/*Ejercicio 4: Rellenar un arreglo con n numeros, posteriormente utilizando punteros
 determinar el menor elemento del vector.*/
 #include<iostream>
 using namespace std;
@@ -27,6 +27,5 @@ int main()
 	
 	cout<<"\nEl menor elemento es: "<<menor<<endl;
 	
-	getchar();
 	return 0;
 }

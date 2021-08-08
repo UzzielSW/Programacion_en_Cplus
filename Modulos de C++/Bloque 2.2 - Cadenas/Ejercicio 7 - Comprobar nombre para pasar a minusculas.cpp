@@ -1,4 +1,4 @@
-/*7. Pedir su nombre al usuario en MAY�SCULA, si su nombre comienza por la letra A, 
+/*7. Pedir su nombre al usuario en MAYUSCULA, si su nombre comienza por la letra A, 
 convertir su nombre a minusculas, caso contrario no convertirlo.*/
 #include<iostream>
 #include<string.h>
@@ -19,6 +19,5 @@ int main()
 	else
 		cout<<"Su nombre no comienza por A";
 	
-	getchar();
 	return 0;
 }

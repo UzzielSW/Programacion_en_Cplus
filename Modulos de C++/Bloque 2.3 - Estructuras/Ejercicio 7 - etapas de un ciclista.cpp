@@ -53,6 +53,5 @@ int main()
 		<<"\nMinutos: "<<minutosT
 		<<"\nSegundos: "<<segundosT<<endl;
 	
-	getchar();
 	return 0;
 }

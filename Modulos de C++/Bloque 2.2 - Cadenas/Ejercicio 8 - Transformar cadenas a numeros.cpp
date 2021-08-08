@@ -24,6 +24,5 @@ int main()
 	//Por ultimo los sumamos
 	cout<<"\nLa suma es: "<< (valorEntero + valorFlotante)<<endl;
 	
-	getchar();
 	return 0;
 }

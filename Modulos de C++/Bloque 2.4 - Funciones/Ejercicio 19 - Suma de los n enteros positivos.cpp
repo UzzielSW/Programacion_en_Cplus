@@ -1,14 +1,14 @@
-/*Ejercicio 19: Realice una funci�n recursiva que sume los primeros n enteros positivos. 
-Nota: para plantear la funci�n recursiva tenga en cuenta que la suma puede expresarse 
+/*Ejercicio 19: Realice una funcion recursiva que sume los primeros n enteros positivos. 
+Nota: para plantear la funcion recursiva tenga en cuenta que la suma puede expresarse 
 mediante la siguiente recurrencia:
 
-	suma(n) = 1            , si n=1
-			  n+suma(n-1)  , si n>1
+	suma(n) = 1  , si n=1
+ 	n+suma(n-1)  , si n>1
 */
 #include<iostream>
 using namespace std;
 
-//Prototipo de Funci�n
+//Prototipo de Funcion
 int sumar(int n);
 
 int main()
@@ -24,11 +24,10 @@ int main()
 	//Mandamos llamar a la funcion recursiva sumar
 	cout<<"La suma es: "<<sumar(numero)<<endl;
 	
-	getchar();
 	return 0;
 }
 
-//Definici�n de Funci�n
+//Definicion de Funcion
 int sumar(int n)
 {
 	int suma = 0;

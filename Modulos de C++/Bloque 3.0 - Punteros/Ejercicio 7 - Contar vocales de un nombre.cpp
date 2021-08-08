@@ -1,4 +1,4 @@
-/*Ejercicio 7: Pedir su nombre al usuario y devolver el n�mero de vocales que hay. 
+/*Ejercicio 7: Pedir su nombre al usuario y devolver el numero de vocales que hay. 
 NOTA: Recuerda que debes utilizar punteros . */
 #include<iostream>
 #include<string.h>
@@ -14,7 +14,6 @@ int main()
 	pedirDatos();
 	cout<<"\nNumero de vocales en el nombre: "<<contarVocales(nombreUsuario);	
 	
-	getchar();
 	return 0;
 }
 

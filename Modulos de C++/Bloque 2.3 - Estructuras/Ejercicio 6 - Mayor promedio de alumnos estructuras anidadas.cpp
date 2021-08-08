@@ -1,13 +1,11 @@
 /*6. Utilizar las 2 estructuras del problema 5, pero ahora pedir los datos para N 
-alumnos, y calcular cu�l de todos tiene el mejor promedio, e imprimir sus datos.*/
+alumnos, y calcular cual de todos tiene el mejor promedio, e imprimir sus datos.*/
 #include<iostream>
 using namespace std;
 
 struct Promedio
 {
-	float nota1;
-	float nota2;
-	float nota3;
+	float nota1, nota2, nota3;
 };
 
 struct Alumno
@@ -56,6 +54,5 @@ int main()
 		<<"\nEdad: "<<alumnos[posM].edad
 		<<"\nPromedio: "<<promedio_alumno[posM];
 		
-	getchar();
 	return 0;
 }

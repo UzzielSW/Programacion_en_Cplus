@@ -1,5 +1,5 @@
 /*1. Hacer un programa que pida al usuario que digite una cadena de caracteres, luego
-verificar la longitud de la cadena, y si �sta supera a 10 caracteres mostrarla en 
+verificar la longitud de la cadena, y si esta supera a 10 caracteres mostrarla en 
 pantalla, caso contrario no mostrarla.*/
 #include<iostream>
 #include<string.h>
@@ -17,6 +17,5 @@ int main()
 	else
 		cout<<"La cadena no supera los 10 caracteres";
 		
-	getchar();
 	return 0;
 }

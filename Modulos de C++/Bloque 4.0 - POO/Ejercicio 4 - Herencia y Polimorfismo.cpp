@@ -1,8 +1,7 @@
-/*Ejercicio 4: Crear un programa en C++ que tenga la siguiente jerarqu�a de
+/*Ejercicio 4: Crear un programa en C++ que tenga la siguiente jerarquia de
 clases: Animal(Clase Padre) -> Humano(Clase Hija) -> Perro(Clase Hija),  
 y hacer polimorfismo con el metodo Comer(). */
 #include<iostream>
-#include<stdlib.h>
 using namespace std;
 
 class Animal
@@ -43,7 +42,7 @@ void Animal::Comer()
 	cout<<"Yo como ";
 }
 
-//COnstructor de la clase Humano
+//Constructor de la clase Humano
 Humano::Humano(int _edad, string _nombre) : Animal(_edad)
 {
 	nombre = _nombre;
@@ -78,6 +77,5 @@ int main()
 	animales[0]->Comer();
 	animales[1]->Comer();	
 	
-	system("pause");
 	return 0;
 }

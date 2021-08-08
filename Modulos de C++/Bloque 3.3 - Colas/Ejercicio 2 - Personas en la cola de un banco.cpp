@@ -1,7 +1,6 @@
 /*Ejercicio 2: Hacer un programa que guarde datos de clientes de un banco,  los almacene
 en cola,  y por ultimo muestre los clientes en el orden correcto.*/
 #include<iostream>
-#include<stdlib.h>
 using namespace std;
 
 struct Cliente
@@ -51,7 +50,6 @@ int main()
 		cout<<"\n";		
 	}	
 	
-	getchar();
 	return 0;
 }
 

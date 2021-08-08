@@ -1,4 +1,4 @@
-/*Ejercicio 7: Intercambiar el valor de 2 variables utilizando paso de par�metros por
+/*Ejercicio 7: Intercambiar el valor de 2 variables utilizando paso de parametros por
 referencia.*/
 #include<iostream>
 using namespace std;
@@ -16,7 +16,6 @@ int main()
 	cout<<"Ahora el nuevo valor de num1 es: "<<num1
 		<<"\nAhora el nuevo valor de num2 es: "<<num2<<endl;	
 				
-	getchar();
 	return 0;
 }
 

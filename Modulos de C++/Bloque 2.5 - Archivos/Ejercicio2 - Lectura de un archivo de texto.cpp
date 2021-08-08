@@ -1,7 +1,6 @@
 /*Ejercicio 2: Realice un programa que pida al usuario el nombre o ubicacion 
-de un fichero de texto y, a continuaci�n de lectura a todo el fichero. */
+de un fichero de texto y, a continuacion de lectura a todo el fichero. */
 #include<iostream>
-#include<stdlib.h>
 #include<string.h>
 #include<fstream>
 using namespace std;
@@ -12,7 +11,6 @@ int main()
 {
 	lectura();
 	
-	system("pause");
 	return 0;
 }
 
