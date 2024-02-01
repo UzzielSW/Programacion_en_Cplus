@@ -34,7 +34,7 @@
 
 	aunque no es necesariamente obligatorio.
 
-	!dato curioso: Se recomienda poner nombres a las estructuras
+	* dato curioso: Se recomienda poner nombres a las estructuras
 	en singular y con la primera letra en mayuscula.
 	Esto no es obligacion, solo es buena practica para diferenciar
 	los nombres de estructuras con las variables.

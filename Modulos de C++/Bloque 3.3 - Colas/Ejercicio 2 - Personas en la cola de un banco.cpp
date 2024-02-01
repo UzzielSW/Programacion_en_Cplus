@@ -1,5 +1,5 @@
-/*Ejercicio 2: Hacer un programa que guarde datos de clientes de un banco,  los almacene
-en cola,  y por ultimo muestre los clientes en el orden correcto.*/
+/*Ejercicio 2: Hacer un programa que guarde datos de clientes de un banco, los almacene
+en cola, y por ultimo muestre los clientes en el orden correcto.*/
 #include<iostream>
 using namespace std;
 

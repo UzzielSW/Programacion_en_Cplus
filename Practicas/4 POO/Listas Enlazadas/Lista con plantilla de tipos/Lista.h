@@ -17,7 +17,7 @@ class Lista
 		bool eliminarDelFrente(TIPONODO &);
 		bool eliminarDelFinal(TIPONODO &);
 		bool estaVacia() const;
-		void imprimir() const
+		void imprimir() const;
 	private:
 		NodoLista< TIPONODO > *primeroPtr; // apuntador al primer nodo
 		NodoLista< TIPONODO > *ultimoPtr; // apuntador al ultimo nodo
@@ -132,7 +132,7 @@ bool Lista< TIPONODO >::eliminarDelFinal( TIPONODO &valor )
  	}
 }
 
- // ¿esta la Lista vacia?
+ // esta la Lista vacia?
 template< typename TIPONODO >
 bool Lista< TIPONODO >::estaVacia() const { return primeroPtr == 0; }
 
@@ -158,15 +158,11 @@ void Lista< TIPONODO >::imprimir() const
 	while (actualPtr != 0)// obtiene los datos del elemento
 	{ 
 		if(actualPtr->siguientePtr != NULL)
-		{
 			cout << actualPtr->datos << "->";
-			actualPtr = actualPtr->siguientePtr;
-		}
 		else
-		{
 			cout << actualPtr->datos ;
-			actualPtr = actualPtr->siguientePtr;
-		}
+
+		actualPtr = actualPtr->siguientePtr;
  	}
  	
  	cout << "\n\n";

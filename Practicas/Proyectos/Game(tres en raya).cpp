@@ -1,7 +1,7 @@
 /*
-	// Reto: Juego de tres en raya
-	// Autor: Brayan Puyol 
-	// Date: 2017
+	Reto: Juego de tres en raya
+	Autor: Brayan Puyol 
+	Date: 2017
 */
 #include <iostream>
 #include <stdlib.h>	
@@ -9,7 +9,7 @@
 #include <vector>
 #include <iomanip>
 #include <algorithm>
-	#define TAMANIO 9
+#define TAMANIO 9
 using namespace std;
 
 void Play();

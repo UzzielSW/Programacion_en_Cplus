@@ -48,7 +48,7 @@ void insertarLista(Nodo *&lista, float n)
 		lista = nuevo_nodo;
 	else
 	{
-		aux = lista; //aux se�ala el inicio de la lista
+		aux = lista; //aux linkea el inicio de la lista
 		while(aux->siguiente != NULL) //recorremos la lista
 			aux = aux->siguiente;
 

@@ -13,7 +13,7 @@ int main()
 	cout<<"Digite el valor de e: "; cin>>e;
 	cout<<"Digite el valor de f: "; cin>>f;
 	
-	cout.precision(2);//recorta los números despues de la coma decimal a 2
+	cout.precision(2);//recorta los numeros despues de la coma decimal a 2
 	
 	if( (c != 0) && (f != 0) && (((d + (e / f)) != 0)) )
 		cout<<"El resultado es: "<<(a + (b / c))/(d + (e / f));

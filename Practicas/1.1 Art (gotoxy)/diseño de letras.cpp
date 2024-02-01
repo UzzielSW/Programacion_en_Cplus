@@ -80,10 +80,11 @@ void writeWordRow(string s)
 int main()
 {
   string str;
+  cout<<"Ingrese el texto a convertir: ";
   getline(cin, str);
   
   if (str.empty())
-    str.assign("CERO");
+    str.assign("Prueba");
 
   for (int i = 0; i < str.length(); i += WrdCols)
   {

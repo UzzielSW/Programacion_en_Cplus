@@ -5,12 +5,12 @@ using namespace std;
 int main() 
 {
   /*
-    Declare e inicialice las dimensiones de la matriz, luego los índices utilizados para la espiral y nuestra dirección actual.
+    Declare e inicialice las dimensiones de la matriz, luego los indices utilizados para la espiral y nuestra dirección actual.
   */
   int n, m, j = 0, k = 0;
   enum {down, right, up, left} d = down;
 
-  cout << "Ingrese el tamaño de fila y columna: " << flush;
+  cout << "Ingrese el tamano de fila y columna: " << flush;
   cin >> n >> m;
   cout << endl;
 
@@ -26,14 +26,14 @@ int main()
     for (int j = 0; j < m; j++)
       ary[i][j] = 0;
 
-// Para el número de celdas en la matriz, almacene el valor y calcule la siguiente celda
+// Para el numero de celdas en la matriz, almacene el valor y calcule la siguiente celda
   for (int i = 1; i <= n * m; i++) 
   {
-    // Almacenar el número actual en la celda actual.
+    // Almacenar el numero actual en la celda actual.
     ary[j][k] = i;
 
     /*
-      Si nos dirigimos hacia abajo y no hemos llegado al final de la columna o una celda ya rellenada, la siguiente celda está abajo. De lo contrario, cambie de dirección a la derecha
+      Si nos dirigimos hacia abajo y no hemos llegado al final de la columna o una celda ya rellenada, la siguiente celda esta abajo. De lo contrario, cambie de dirección a la derecha
     */
     if (d == down)
       if (j < (n - 1) && ary[j+1][k] == 0)

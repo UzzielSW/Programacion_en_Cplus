@@ -31,9 +31,7 @@ class Rectangle
  }
  
  double Rectangle::getLength(){return length;}
- 
  double Rectangle::getWidth(){return width;}
- 
  double Rectangle::getArea(){return length * width;}
  
  int main(){
@@ -50,7 +48,7 @@ class Rectangle
  	box.setLength(alto);
  	box.setWidth(ancho);
  	
- 	cout << "\nHere is the rectangle’s data:\n";
+ 	cout << "\nInformacion del rectangulo:\n";
  	cout << "Length: " << box.getLength() << endl;
  	cout << "Width : " << box.getWidth()  << endl;
  	cout << "Area  : " << box.getArea()   << endl;

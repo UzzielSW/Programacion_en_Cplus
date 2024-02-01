@@ -9,7 +9,6 @@ using namespace std;
 int main()
 {
 	float notapractica, notateorica, notaparticipacion;
-	int notaFinal;
 	
 	cout<<"ingrese la nota de practica: "; 		cin>>notapractica;
 	cout<<"Ingrese la nota teoria: "; 			cin>>notateorica;
@@ -19,9 +18,7 @@ int main()
 	notateorica *= 0.60;
 	notaparticipacion *= 0.10;
 	
-	notaFinal = notaparticipacion + notateorica + notapractica;
-	 
-	cout<<"La nota final es: "<<notaFinal;
+	cout<<"La nota final es: "<<(notapractica + notateorica + notaparticipacion)<<endl;
 
 	return 0;
 }

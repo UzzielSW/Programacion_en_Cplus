@@ -4,8 +4,8 @@ using namespace std;
 
 void ordenamientoSeleccion(int [], const int, bool (*)(int, int));
 void intercambiar(int *const, int *const);
-bool ascendente(int, int ); // implementa el orden ascendente
-bool descendente(int, int ); // implementa el orden descendente
+bool ascendente(int, int); // implementa el orden ascendente
+bool descendente(int, int); // implementa el orden descendente
  
 int main()
 {

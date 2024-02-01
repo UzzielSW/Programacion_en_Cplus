@@ -9,6 +9,9 @@ using namespace std;
 struct Promedio
 {
 	float nota1, nota2, nota3;
+	float Prom(){
+		return (nota1 + nota2 + nota3)/3;
+	};
 };
 
 struct Alumno
@@ -34,8 +37,7 @@ int main()
 	cout<<"Nota3: "; cin>>alumno1.prom.nota3;
 	
 	//Sacando el promedio del alumno
-	promedio_alumno = (alumno1.prom.nota1 + alumno1.prom.nota2 + alumno1.prom.nota3)/3;
-	
+	promedio_alumno = alumno1.prom.Prom();
 	
 	cout<<"\n\nMostrando Datos"
 		<<"\nNombre: "<<alumno1.nombre

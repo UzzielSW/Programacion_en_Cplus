@@ -7,7 +7,7 @@ int main()
 {
 	int numero;
  
- 	cout << "Escriba un numero decimal: ";
+ 	cout << "Escriba un numero: ";
  	cin >> numero;
 
 	// usa el manipulador de flujo hex para mostrar un numero hexadecimal

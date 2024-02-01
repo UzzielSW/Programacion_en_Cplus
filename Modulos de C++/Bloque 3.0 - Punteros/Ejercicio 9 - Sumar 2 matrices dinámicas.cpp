@@ -1,4 +1,4 @@
-/*Ejercicio 9: Realice un programa que calcule la suma de dos matrices din�micas.*/
+/*Ejercicio 9: Realice un programa que calcule la suma de dos matrices dinamicas.*/
 #include<iostream>
 #include<stdlib.h>
 using namespace std;

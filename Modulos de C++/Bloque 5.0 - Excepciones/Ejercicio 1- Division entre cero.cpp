@@ -16,7 +16,7 @@ double Cociente(int numerador, int denominador)
  	if (denominador == 0)
  		throw ExcepcionDivisionEntreCero();
  
-	return static_cast < double > numerador  / denominador;
+	return static_cast < double > (numerador  / denominador);
 }
 
 int main()

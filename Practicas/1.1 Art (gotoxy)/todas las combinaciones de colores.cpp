@@ -10,7 +10,7 @@ int main()
 	for(int i=1; i <= 254; i++)
 	{
 		SetConsoleTextAttribute (screen, i);
-		cout<<"\n \t   °°.:Junior:.°°    "<<i;		
+		cout<<"\n \t   .:Junior:.    "<<i;		
 	}
 
 	getch();

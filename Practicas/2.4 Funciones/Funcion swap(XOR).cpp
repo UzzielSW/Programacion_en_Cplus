@@ -11,7 +11,6 @@ int main()
 
 	swap_temp(num1, num2);
 	
-	
 	cout<<"\n swap temp ";
 	cout<<"\n num1: "<<num1;
 	cout<<"\n num2: "<<num2;
@@ -25,14 +24,12 @@ int main()
 	return 0;
 }
 
-
 void swap_temp(int &a, int &b)
 {
 	int temp = a;
 	a = b;
 	b = temp;
 }
-
 
 void swap_xor(int &a, int &b)
 {

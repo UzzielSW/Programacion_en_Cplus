@@ -6,8 +6,8 @@ using namespace std;
 int main()
 {
 	int size = 5;                                           
-	//buscar la ruta en la cual la suma de la mayor cantidad moviendose solo en / o \ 
-	// en este ejemplo es: 7 + 8 + 7 + 4 + 6 = 32
+	/*  buscar la ruta en la cual la suma de la mayor cantidad moviendose solo en / o \ 
+	en este ejemplo es: 7 + 8 + 7 + 4 + 6 = 32 */
 	int array[5][5] = {{7},
 					  {3,8},
 					 {8,1,7},

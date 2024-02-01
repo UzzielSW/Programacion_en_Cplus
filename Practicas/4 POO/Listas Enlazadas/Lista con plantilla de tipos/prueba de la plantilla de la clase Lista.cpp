@@ -50,8 +50,6 @@ void probarLista(Lista< T > &objetoLista, const string &nombreTipo)
  			break;
  		}
  	} while (opcion != 5); 
-	
-	cout << "\n .:Fin de la prueba de la lista:.\n";
 }
 
 
@@ -91,9 +89,6 @@ int main()
 				Lista< string > listaString;
  				probarLista(listaString, "string");	
 			}
-			
-			else if(opc == 5)
-				cout<<"\n saliendo";
 			
 			else
 				cout<<"\n opcion invalida";

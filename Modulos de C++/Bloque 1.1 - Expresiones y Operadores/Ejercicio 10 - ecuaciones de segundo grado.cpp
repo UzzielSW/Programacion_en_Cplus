@@ -1,4 +1,4 @@
-/*10. Escriba un programa que calcule las soluciones de una ecuación de 
+/*10. Escriba un programa que calcule las soluciones de una ecuacion de 
 segundo grado de la forma ax^2 + bx + c = 0, teniendo en cuenta que: 
 	x1 = (-b+sqrt(pow(b,2)-4*a*c))/(2*a) 
 	x2 = (-b-sqrt(pow(b,2)-4*a*c))/(2*a)

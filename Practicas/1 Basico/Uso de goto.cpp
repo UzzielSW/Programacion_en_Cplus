@@ -1,4 +1,7 @@
-// Uso de goto.
+/* Uso de goto.
+con la etiqueta inicio: se marca el inicio del bucle que se ejecuta hasta la linea 17
+Luego que cuenta toma el valor de 11 se ejecuta goto fin donde se ejecuta lo que esta despues de la
+etiqueta fin: */
 #include <iostream>
 #include <iomanip>
 using namespace std;
@@ -16,7 +19,6 @@ int main()
 	cout << setw( 2 ) << left << cuenta;
 	++cuenta;
 
-	// va hasta inicio en la linea 17
 	goto inicio;
 
 	fin: // etiqueta

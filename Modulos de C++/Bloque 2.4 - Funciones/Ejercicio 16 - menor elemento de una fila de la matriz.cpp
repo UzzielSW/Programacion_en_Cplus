@@ -4,7 +4,7 @@ matriz devuelva el menor de los elementos almacenados en dicha fila.*/
 using namespace std;
 
 void pedirDatos();
-int comprobarMenorElemento(int m[][100], int, int);
+int comprobarMenorElemento();
 
 int m[100][100], nfilas, ncol;
 
@@ -12,7 +12,7 @@ int main()
 {
 	pedirDatos();
 	
-	cout<<"\nEl menor elemento de la fila seleccionada es: "<<comprobarMenorElemento(m, nfilas, ncol)<<endl;
+	cout<<"\nEl menor elemento de la fila seleccionada es: "<<comprobarMenorElemento()<<endl;
 	
 	return 0;
 }
@@ -25,7 +25,7 @@ void pedirDatos()
 	cout<<"Digite el numero de columnas: ";
 	cin>>ncol;
 	
-	for(int i=0;i < n filas; i++)
+	for(int i=0;i < nfilas; i++)
 	{
 		for(int j=0; j < ncol; j++)
 		{
@@ -35,7 +35,7 @@ void pedirDatos()
 	}
 }
 
-int comprobarMenorElemento(int m[][100], int nfilas, int ncol)
+int comprobarMenorElemento()
 {
 	int fila, menor = 99999;
 	

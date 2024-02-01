@@ -5,8 +5,8 @@ using namespace std;
 
 //Prototipos de Funciones
 void pedirDatos();
-void cambiarSigno(int vec[], int);
-void mostrarVector(int vec[], int);
+void cambiarSigno();
+void mostrarVector();
 
 int tam, vec[100];
 
@@ -14,8 +14,8 @@ int main()
 {
 	//Llamada a las funciones - en orden
 	pedirDatos();
-	cambiarSigno(vec, tam);	
-	mostrarVector(vec, tam);
+	cambiarSigno();	
+	mostrarVector();
 	
 	return 0;
 }
@@ -32,13 +32,13 @@ void pedirDatos()
 	}
 }
 
-void cambiarSigno(int vec[], int tam)
+void cambiarSigno()
 {
 	for(int i=0; i < tam; i++)
 		vec[i] *= -1;
 }
 
-void mostrarVector(int vec[], int tam)
+void mostrarVector()
 {
 	cout<<"\nMostrando vector con cambio de signo: "<<endl;
 	for(int i=0; i < tam; i++)
