@@ -1,0 +1,25 @@
+   nombre          camiseta    posicion   T.Roja    T.Amarilla
+
+ Marko Dmitrovic     23        portero      
+ Predrag Rajkovic    12        portero 
+ Vladimir Stojkvic   1         portero
+ Milan Rodic         14        defensa 
+ Uros Spajic         5         defensa 
+ Branislav Ivanovic  6         defensa 
+ Dusko Tosic         3         defensa 
+ Nikola Milenkovic   15        defensa 
+ Aleksandar Kolarov  11        defensa 
+ Milos Vejikovic     13        defensa 
+ Anttonio Rukavina   2         defensa 
+ Nemanja Matic       21        central
+ Sergej Milinkovic   20        central
+ Luka Jovic          19        central
+ Luka Milivojevic    4         central
+ Dusan Tadic         10        central
+ Filip Kostic        17        central
+ Adem Ljajic         22        central
+ Andrija Zivkovic    7         central
+ Nemanja Radonjic    18        central
+ Manko Grujic        16        central
+ Aleksandar Prijovic 8         delantero
+ Aleksandar Mitrovic 9         delantero

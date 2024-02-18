@@ -1,0 +1,32 @@
+                           Equipo de Marruecos
+
+Nombre    Apellido              Camiseta      Posicion     T.Roja    T.Amarilla
+
+Amed      Reda Tagnaouti               22      Portero   
+Munir     Mohand Mohamedi              12      Portero     
+Yassine   Bounou                       01      Portero      
+Achraf    Hakimi Mouh                  02      Defensa 
+Hamza     Mendyl                       03      Defensa
+Jamal     Sellami                       -      Defensa
+Manuel    Marouan da Costa Trinidade   04      Defensa
+Ramin     Rezaeian                     23      Defensa
+Medhi     Amine El Mouttaqi Benatia    05      Defensa
+Amine     Harit                        18      Central
+Faycal    Fajr                         11      Central
+hakim     Ziyech                       07      Central
+Karim     El Ahmadi Al Aroos           08      Central
+Mbark     Boussoufa                    14      Central
+Mehdi     Carcela-Gonzalez             23      Central
+Nabil     Dirar                        17      Central
+Romain    Saïss                        06      Central
+Sofyan    Amarabat                     21      Central
+Younés    Belhanda                     10      Central
+Youssef   Aït Bennasser                15      Central
+Ayoub     El Kaabi                     09      Delantero
+Aziz      Bouhaddouz                   20      Delantero
+Khalid    Boutaïb                      13      Delantero
+Nordin    Amrabat                      16      Delantero
+Youssef   En-Nesyri                    19      Delantero
+
+Hervé Renard 
+Mohamed Fakhir

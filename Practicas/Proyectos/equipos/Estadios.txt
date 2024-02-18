@@ -1,0 +1,23 @@
+1. Estadio Luzhniki en Moscú. Capacidad 81 300. Aquí se jugará el primer partido inaugural y la final.
+
+2. Estadio Otkrytie Arena en Moscú. Capacidad 46 990.
+
+3. Estadio de San Petersburgo en San Petersburgo. Capacidad 69 500.
+
+4. Estadio de Kaliningrado en Kaliningrado. Capacidad 35 000.
+
+5. Estadio de Nizhni Nóvgorod en Nizhni Nóvgorod. Capacidad 44 899.
+
+6. Estadio Volgogrado Arena en Volgogrado. Capacidad 45 015.
+
+7. Estadio Ekaterimburgo Arena en Ekaterimburgo. Capacidad 35 000.
+
+8. Estadio Estadio Fisht en Sochi. Capacidad 47 659.
+
+9. Estadio Rostov Arena en Rostov del Don. Capacidad 43 702.
+
+10. Estadio Mordovia Arena en Saransk. Capacidad 45 015.
+
+11. Estadio Samara Arena en Samara. Capacidad 44 918.
+
+12. Estadio Kazán Arena en Kazán. Capacidad 45 105.

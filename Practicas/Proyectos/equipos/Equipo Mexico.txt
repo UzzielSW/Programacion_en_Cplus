@@ -1,0 +1,25 @@
+      Nombre         camiseta    posicion   T.Roja  T.Amarilla
+
+ Jose de Jesus Corona    1       portero 
+ Guillermo Ochoa         13      portero
+ Alfredo Talavera        12      portero
+ Jesus Gallardo          23      defensa
+ Hector Moreno           15      defensa
+ Miguel Layun            7       defensa
+ Hugo Ayala              2       defensa
+ Edson Alvarez           21      defensa
+ Carlos Salcedo          3       defensa
+ Andres  Guardado        18      central
+ Jonathan Dos Santos     6       central
+ Marco Fabian            8       central 
+ Giovani Dos Santos      10      central
+ Rafael Marquez          4       central
+ Erick Gutierrez         5       central
+ Hector herrera          16      central
+ Javier Aquino           20      central
+ jesus Corona            17      central
+ Hirving Lozano          23      central
+ Carlitos Vela           11      delantero
+ Oribe Peralta           19      delantero
+ Chicharito              14      delantero
+ Raul Jimenez            9       delantero

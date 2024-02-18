@@ -1,0 +1,25 @@
+Colombia H
+"Tecnico_José_Néstor_Pékerman"
+"David_Ospina" 1 
+"Camilo_Vargas" 12 
+"José_Fernando_Cuadrado" 22 
+"Cristian_Zapata" 2 
+"Oscar_Murillo" 3 
+"Santiago_Arias" 4 
+"Yerry_Mina" 13 
+"Johan_Mojica" 17 
+"Farid_Diaz" 18 
+"Davinson_Sanchez" 23 
+"Wilmar_Barrios" 5 
+"Carlos_Sanchez" 6 
+"Abel_Aguilar" 8 
+"James_Rodriguez" 10 
+"Juan_Cuadrado" 11 
+"Mateus_Uribe" 15 
+"Jefferson_Lerma" 16 
+"Juan_Quintero" 20 
+"Carlos_Bacca" 7 
+"Radamel_Falcao" 9 
+"Luis_Muriel" 14 
+"Miguel_Borja" 19 
+"Jose_Izquierdo" 21 

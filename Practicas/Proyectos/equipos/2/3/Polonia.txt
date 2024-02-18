@@ -1,0 +1,30 @@
+ Nombre       |      camiseta  | posicion  | T.Roja  T.Amarilla
+--------------------------------------------------------------
+ Szczesny                1       portero
+ Bartosz Bialkowski      12      portero
+ Fabianski               22      portero
+--------------------------------------------------------------
+ Pazdan                  2       defensa
+ Jedrzejczyk             3       defensa
+ Thiago Cionek           4       defensa
+ Jan Bednarek            5       defensa
+ Glik                    15      defensa
+ Bereszynski             18      defensa
+ Piszczek                20      defensa 
+-------------------------------------------------------------
+ Jacek Goralski          6       central
+ Karol Linetty           8       central
+ Krychowiak              10      central
+ Grosicki                11      central
+ Rybus                   13      central
+ Blaszczykowski          16      central
+ Peszko                  17      central 
+ Zielinski               19      central
+ Rafal Kursawa           21      central
+--------------------------------------------------------------
+ Arkadiusz Milik         7       delantero 
+ Lewandowski             9       delantero          
+ Teodorczyk              14      delantero
+ Dawid Kownacki          23      delantero
+
+ 

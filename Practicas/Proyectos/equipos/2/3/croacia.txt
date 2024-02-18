@@ -1,0 +1,29 @@
+ Nombre       |      camiseta  | posicion  | T.Roja  T.Amarilla
+--------------------------------------------------------------
+ Dominik Livakovic       1       portero
+ Lovre Kalinic           12      portero
+ Subasic                 23      portero
+--------------------------------------------------------------
+ Vrsaljko                2       defensa
+ Strinic                 3       defensa
+ Corluka                 5       defensa
+ lovren                  6       defensa
+ Tin Jedvaj              13      defensa
+ Caleta-Car              15      defensa
+ Vida                    21      defensa 
+ Pivaric                 22      defensa 
+-------------------------------------------------------------
+ Perisic                 4       central
+ Rakitic                 7       central
+ Kovacic                 8       central
+ Modric                  10      central
+ Brozovic                11      central
+ Filip Bradaric          14      central
+ Badelj                  19      central 
+ Pjaca                   20      central
+--------------------------------------------------------------
+ Kramaric                9       delantero        
+ Kalinic                 16      delantero
+ Mandzukic               17      delantero
+ Ante Rebic              18      delantero
+ 

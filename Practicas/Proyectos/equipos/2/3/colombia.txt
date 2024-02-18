@@ -1,0 +1,30 @@
+ Nombre       |      camiseta  | posicion  | T.Roja  T.Amarilla
+--------------------------------------------------------------
+ David Ospina            1       portero
+ Camilo Vargas           12      portero
+ José Cuadrado           22      portero
+--------------------------------------------------------------
+ Cristian Zapata         2       defensa
+ Oscar Murillo           3       defensa
+ Santiago Arias          4       defensa
+ Yerry Mina              13      defensa
+ Mojica                  17      defensa
+ Frank Fabra             18      defensa
+ Davinson Sánchez        23      defensa
+-------------------------------------------------------------
+ Wlmar Barrios           5       central
+ Carlos Sánchez          6       central
+ Abel Aguilar            8       central
+ James                   10      central
+ Cuadrado                11      central
+ Mateus Uribe            15      central 
+ Jefferson Lerma         16      central
+ Juan Quintero           20      central
+--------------------------------------------------------------
+ Bacca                   7       delantero 
+ Falcao                  9       delantero
+ Luis Muriel             14      delantero
+ Miguel Borja            19      delantero
+ José Izquierdo          21      delantero
+
+ 

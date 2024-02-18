@@ -1,0 +1,25 @@
+Japon H
+"tecnico_Akira_Nishino"
+"Eiji_Kawashima" 1 
+"Masaaki_Higashiguchi" 12 
+"Kosuke_Nakamura" 23 
+"Naomichi_UEDA" 2 
+"Gen_Shoji" 3 
+"Yuto_Nagatomo" 5 
+"Wataru_Endo" 6 
+"Hiroki_Sakai" 19 
+"Tomoaki_Makino" 20 
+"Gotoku_Sakai" 21 
+"Maya_Yoshida" 22 
+"Keisuke_Honda" 4 
+"Gaku_Shibasaki" 7 
+"Genki_Haraguchi" 8 
+"Shinji_Kagawa" 10 
+"Takashi_Usami" 11 
+"Takashi_Inui" 14 
+"Hotaru_Yamaguchi" 16 
+"Makoto_Hasebe" 17 
+"Ryota_Oshima" 18 
+"Shinji_Okazaki" 9 
+"Yoshinori_Muto" 13 
+"Yuya_Osako" 15 

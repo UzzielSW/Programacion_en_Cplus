@@ -1,0 +1,25 @@
+Suiza E
+"Tecnico_Petkovic_Vladimir"
+"Yann_Sommer" 1  
+"Yvon__Mvogo" 12  
+"Roman_Buerki" 21  
+"Stephan_Lichtsteiner" 2  
+"Francois_Moubandje" 3  
+"Nico_Elvedi" 4  
+"Manuel_Akanji" 5  
+"Michael_Lang" 6  
+"Ricardo_Rodriguez" 13  
+"Johan_Djourou" 20  
+"Fabian_Schaer" 22  
+"Remo_Freuler" 8  
+"Granit_Xhaka" 10  
+"Valon_Behrami" 11  
+"Steven_Zuber" 14  
+"Blerim_Dzemaili" 15  
+"Gelson_Fernandes" 16  
+"Denis_Zakaria" 17  
+"Xherdan_Shaqiri" 23  
+"Breel_Embolo"   
+"Haris_Seferovic" 9  
+"Mario_Gavranovic" 18  
+"Josip_Drmic" 19  

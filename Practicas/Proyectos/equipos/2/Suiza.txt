@@ -1,0 +1,28 @@
+ Nombre       |      camiseta  | posicion  | T.Roja  T.Amarilla
+--------------------------------------------------------------
+ Sommer                  1       portero
+ Mvogo                   12      portero
+ Burki                   21      portero
+--------------------------------------------------------------
+ Lichtsteiner            2       defensa
+ Moubandje               3       defensa
+ Elvedi                  4       defensa
+ Manuel Akanji           5       defensa
+ Michael Lang            6       defensa
+ Ricardo Rodriguez       6       defensa
+ Djourou                 20      defensa
+ Schar                   22      defensa
+--------------------------------------------------------------
+ Remo Fleuler            8       central
+ Xhaka                   10      central
+ Berhami                 11      central 
+ Zuber                   14      central 
+ Dzemaili                15      central 
+ Gelson Fernandes        16      central
+ Denis Zakaria           17      central 
+ Shaqiri                 23      central
+--------------------------------------------------------------
+ NEmbolo                 7       delantero
+ Seferovic               9       delantero
+ Gavranovic              18      delantero
+ Drmic                   19      delantero

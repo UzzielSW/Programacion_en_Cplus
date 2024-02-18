@@ -1,0 +1,33 @@
+ Nombre       |      camiseta  | posicion  | T.Roja  T.Amarilla
+--------------------------------------------------------------
+ Diallo                  1       portero
+ Khadim N´Diaye          16      portero
+ Alfred Gomis            23      portero
+--------------------------------------------------------------
+ Ciss                    2       defensa
+ Koulibaly               3       defensa
+ Kara                    4       defensa
+ Sané                    6       defensa
+ Sabaly                  12      defensa
+ Gassama                 21      defensa
+ Moussa Wagué            22      defensa
+ Idrissa Gueye           5       defensa
+ Kouyaté                 8       defensa
+-------------------------------------------------------------
+ Onyinye Ndidi           4       central
+ Etebo                   8       central
+ Cheikh Ndoye            11      central 
+ N´Diaye                 13      central 
+ Badou Ndiaye            17      central
+  
+--------------------------------------------------------------
+ Moussa Sow              7       delantero 
+ Diouf                   9       delantero
+ Mane                    10      delantero
+ Moussa Konate           14      delantero
+ Diafra Sakho            15      delantero
+ Ismaila Sarr            18      delantero
+ M´Baye Niang            19      delantero
+ Keita Baldé             20      delantero
+
+ 

@@ -1,0 +1,26 @@
+Dinamarca C
+"tecnico_Hareide_Age"
+"Kasper_Schmeichel" 1 
+"Jonas_Lossl" 16 
+"Frederik_Ronnow" 22 
+"Jannik_Vestergaard" 3 
+"Simon_Kjaer" 4 
+"Jonas_Knudsen" 5 
+"Andreas_Christensen" 6 
+"Mathias_Jorgensen" 13 
+"Henrik_Dalsgaard" 14 
+"Jens_Stryger_Larsen" 17 
+"Micahel_Krohn-Dehli" 7 
+"William_Kvist" 7 
+"Thomas_Delaney" 8 
+"Christian_Eriksen" 10 
+"Lukas_Lerager" 18 
+"Lasse_Schone" 19 
+"Nicolai_Jorgensen" 9 
+"Martin_Braithwaite" 11 
+"Kasper_Dolberg" 12 
+"Viktor_Fischer" 15 
+"Yussuf_Yurary_Poulsen" 20
+"Andreas_Cornelius" 21 
+"Pione_Siste" 23 
+

@@ -1,0 +1,25 @@
+España B
+tecnico_Hierro_Fernando
+"David_De_Gea" 1 
+"Kepa_Arrizabalaga" 13 
+"Pepe_Reina" 23 
+"Dani_Carvajal" 2 
+"Gerard_Pique" 3 
+"Nacho" 4 
+"Alvaro_Ordriozola" 12 
+"Cesar_Azpilicueta" 14 
+"Sergio_Ramos" 15 
+"Nacho_Monreal" 16 
+"Jordi_Alba" 18 
+"Sergio_Busquets" 5 
+"Andres_Iniesta" 6 
+"Saul" 7 
+"Koke" 8 
+"Thiago" 10 
+"Marco_Asensio" 20 
+"Isco" 22 
+"Rodrigo" 9 
+"Lucas_Vasquez" 11 
+"Iago_Aspas" 17 
+"Diego_Costa" 19 
+"David_Silva" 21 

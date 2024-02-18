@@ -1,0 +1,25 @@
+Marruecos B
+"tecnico_RENARD_HERVE"
+"Yassine_Bounou" 1 
+"Monir_El_Kajoui" 12 
+"Ahmed_Tagnaouti" 22 
+"Achraf_Hakimi" 2 
+"Hamza_Mendyl" 3 
+"Manuel_Da_Costa" 4 
+"Mehdi_Benatta" 5 
+"Ghanem_Saiss" 6 
+"Nabil_Dirar" 17 
+"Hakim_Ziyach" 7 
+"Karim_El_Ahmadi" 8 
+"Younes_Belhanda" 10 
+"Faycal_Fajr" 11 
+"Mbark_Boussoufa" 14 
+"Youssef_Ait_Bennasser" 15 
+"Noureddine_AMRABAT" 16 
+"Amine_HARIT" 18 
+"Sofyan_AMRABAT" 21 
+"Mehdi_CARCELA" 23 
+"Ayoub_EL_KAABI" 9 
+"Khalid_Boutaib" 13 
+"Youssef_En_Nesyri" 19 
+"Aziz_Bouhaddouz" 20 

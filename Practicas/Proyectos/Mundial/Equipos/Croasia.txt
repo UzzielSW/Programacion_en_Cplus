@@ -1,0 +1,25 @@
+Croasia D
+"tecnico_Dalic_Zlatko"
+"Dominik_Livakovic" 1 
+"Lovren_Kalinic" 12 
+"Danijel_Subasic" 23 
+"Sime_Vrsaljko" 2 
+"Ivan_Strinic" 3 
+"Vedran_Corluka" 5 
+"Dejan_Lovren" 6 
+"Tin_Jedvaj" 13 
+"Duje_Caleta-Car" 15 
+"Domagoj_Vida" 21 
+"Josip_Pivaric" 22 
+"Ivan_Rakitic" 7 
+"Mateo_Kovacic" 8 
+"Luka_Modric" 10 
+"Marcelo_Brozovic" 11 
+"Filip_Bradaric" 14 
+"Milen_Badelj" 19 
+"Andrej_Kramaric" 9 
+"Nikola_Kalinic" 16 
+"Mario_Mandzukic" 17 
+"Ante_Rebic" 18 
+"Marko_Pjaca" 20 
+"Ivan_Perisic" 4 

@@ -1,0 +1,25 @@
+      Nombre         camiseta    posicion   T.Roja  T.Amarilla
+
+ Jin Hyeon Kim          21       portero 
+ Hyeon-woo Jo           23       portero
+ Seung Gyu Kim          1        portero
+ Ko Yo-Han              22       defensa
+ Hong Chul              14       defensa
+ Kim Min-Woo            12       defensa
+ Jung Seung-Hyun        3        defensa
+ Ban-Sk Oh              4        defensa
+ Yun Young-Sun          5        defensa
+ Hyun Soo Jang          20       defensa
+ Kim Young-Gwon         19       defensa
+ Joo-ho Pak             6        defensa
+ Yong Lee               2        defensa
+ Heung Min Son          7        central
+ Ju Se-Jong             8        central
+ Moon Seon-Min          18       central
+ Seung Woo Lee          10       central
+ Lee Jae-Sung           17       central
+ Sung-yueng Ki          16       central
+ Jung Woo-Young         15       central
+ Ja Cheol Koo           13       central
+ Hwang Hee-chan         11       delantero
+ Shin Wook Kim          9        delantero

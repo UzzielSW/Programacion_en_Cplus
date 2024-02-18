@@ -1,0 +1,31 @@
+ Nombre       |      camiseta  | posicion  | T.Roja  T.Amarilla
+--------------------------------------------------------------
+ Eiji Kawashima          1       portero
+ Masski Higashiguchi     12      portero
+ Kosuke Nakamura         23      portero
+--------------------------------------------------------------
+ Naomichi Ueda           2       defensa
+ Gen Shoji               3       defensa
+ Yuto Negatomo           5       defensa
+ Wataru Endo             6       defensa
+ Hiroki Sakai            19      defensa
+ Tomoaki Makino          20      defensa
+ Sakai                   21      defensa
+ Maya Yoshida            22      defensa
+-------------------------------------------------------------
+ Keisuke Honda           4       central
+ Gaku Shibasaki          7       central
+ Genki Haraguchi         8       central
+ Shinji Kagawa           10      central
+ Takashi Usami           11      central
+ Inui                    14      central 
+ Hotaru Yamaguchi        16      central
+ Makoto Hasebe           17      central
+ Ryota Oshima            18      central
+--------------------------------------------------------------
+ Shinji Okazaki          9       delantero 
+ Yoshinori               13      delantero
+ Yuya Osako              15      delantero
+ 
+
+ 

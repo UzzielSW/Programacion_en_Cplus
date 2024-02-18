@@ -1,0 +1,30 @@
+ Nombre       |      camiseta  | posicion  | T.Roja  T.Amarilla
+--------------------------------------------------------------
+ Akinfeev                1       portero
+ Andrey Lunev            12      portero
+ Vladimir Gabulov        20      portero
+--------------------------------------------------------------
+ Mario Fernandes         2       defensa
+ Kutepov                 3       defensa
+ Ignashevich             4       defensa
+ Semenov                 5       defensa
+ Kudryashov              13      defensa
+ Granat                  14      defensa
+ Smolnikov               23      defensa 
+-------------------------------------------------------------
+ Cheryshev               6       defensa
+ Daler Kuzyavev          7       central
+ Gazinskiy               8       central 
+ Dzagoev                 9       central 
+ Roman Zobnin            11      central
+ Anton Miranchuk         16      central 
+ Aleksandr Golovin       17      central
+ Zhirkov                 18      central 
+ Samedov                 19      central
+Alexandr Erokhin         21      central
+--------------------------------------------------------------
+ Fedor Smolov            10      delantero
+ Aleksey Miranchuk       15      delantero
+ Dzyuba                  22      delantero
+
+ 

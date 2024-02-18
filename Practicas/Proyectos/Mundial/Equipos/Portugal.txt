@@ -1,0 +1,25 @@
+Portugal B
+tecnico_SANTOS_Fernando"
+"Rui_Patrício" 1 
+"Anthony_Lopes" 12 
+"Beto" 22 
+"Bruno_Alves" 2 
+"Pepe" 3 
+"Raphaël_Guerreiro" 5 
+"JOSE_Fonte" 6 
+"RUBEN_Dias" 13 
+"Ricardo" 15 
+"Mário_Rui" 19 
+"Cédric_Soares" 21 
+"Manuel_Fernandes" 4 
+"João_Moutinho" 8 
+"João_Mário" 10 
+"Bernardo_Silva" 11 
+"William" 14 
+"Bruno_Fernandes" 16 
+"Adrien_Silva" 23 
+"Cristiano_Ronaldo_" 7 
+"André_Silva" 9 
+"Gonçalo_Guedes" 17 
+"Gelson_Martins" 18 
+"Ricardo_Quaresma" 20 

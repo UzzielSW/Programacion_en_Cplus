@@ -23,8 +23,8 @@ Estan todos los programas vistos en el curso, tanto los practicos hechos en el c
 15. Excepciones
 16. Expresiones regulares
 17. Gotoxy (Windows)
-18. Listas Enlazadas (POO)
-19. Arboles (POO)
+18. Listas Enlazadas, Pila, Cola
+19. Arboles
 20. Colecciones STL
 
 ## Palabras clave reservadas de C++

@@ -1,0 +1,25 @@
+RepublicaDeCorea F
+"tecnico_Shin_Tae-yong"
+"Kim_Seung-gyu" 1 
+"Kim_Jin-Hyeon" 21 
+"Jo_Hyeon-woo" 23 
+"Lee_Yong" 2 
+"Jung_Seung-hyun" 3 
+"Oh_Ban-suk" 4 
+"Yun_Young-sun" 5 
+"Park_Joo-ho" 6 
+"Kim_Min-woo" 12 
+"Hong_Chul" 14 
+"Kim_Young-gwon" 19 
+"Jang_Hyun-soo" 20 
+"Go_Yo-han" 22 
+"Ju_Se-jong" 8 
+"Lee_Seung-woo" 10 
+"Koo_Ja-cheol" 13 
+"Jung_Woo-young" 15 
+"Ki_Sung-yueng" 16 
+"Lee_Jae-sung" 17 
+"Moon_Seon-min" 18 
+"Son_Heung-min" 7 
+"Kim_Shin-wook" 9 
+"Hee-chan_Hwang" 11 

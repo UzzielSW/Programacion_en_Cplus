@@ -1,0 +1,25 @@
+Uruguay A
+"Tecnico_Tabarez_Oscar"
+"Fernando_Muslera"1
+"Martin_Campana"12
+"Martin_Silva"23
+"Jose_Gimenez"2
+"Diego_Godin"3
+"Guillermo_Varela"4
+"Gaston_Silva"13
+"Maximiliano_Pereira"16
+"Sebastian_Coates"19
+"Martin_Caceres"22
+"Carlos_Sanchez"5
+"Rodrigo_Bentancur"6
+"Cristian_Rodriguez"7
+"Nahitan_Nandez"8
+"Lucas_Torreira"14
+"Matias_Vecino"15
+"Diego_Laxalt"17
+"Luis_Suarez"9
+"Giorgian_De_Arrascaeta"10
+"Cristhian_Stuani"11
+"Maximiliano_Gomez"18
+"Jonathan_Urretaviscaya"20
+"Edinson_Cavani"21

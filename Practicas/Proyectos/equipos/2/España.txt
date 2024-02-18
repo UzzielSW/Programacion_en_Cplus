@@ -1,0 +1,29 @@
+ Nombre       |      camiseta  | posicion  | T.Roja  T.Amarilla
+--------------------------------------------------------------
+ De Gea                  1       portero
+ Arrizabalaga            13      portero
+ Reina                   23      portero
+--------------------------------------------------------------
+ Carvajal                2       defensa
+ Piqué                   3       defensa
+ Nacho                   4       defensa
+ Álvaro Odriozola        12       defensa
+ Azpilicueta             14      defensa
+ Sergio Ramos            15      defensa
+ Monreal                 16      defensa
+ Alba                    18      defensa 
+--------------------------------------------------------------
+ Busquets                5       central
+ Iniesta                 6       central
+ Saúl                    7       central 
+ Koke                    8       central 
+ Thiago                  10      central
+ Lucas Vázquez           11      central 
+ Marco Asensio           20      central
+ David Silva             21      central 
+ Isco                    22      central
+--------------------------------------------------------------
+ Rodrigo                 9       delantero
+ Aspas                   17      delantero
+ Diego Costa             19      delantero
+ 

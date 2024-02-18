@@ -1,0 +1,30 @@
+ Nombre       |      camiseta  | posicion  | T.Roja  T.Amarilla
+--------------------------------------------------------------
+ Ikechukwu Ezenwa        1       portero
+ Akpeyi                  16      portero
+ Francis Uzoho           23      portero
+--------------------------------------------------------------
+ Brian Idowu             2       defensa
+ Elderson                3       defensa
+ Ekong                   5       defensa
+ Balogun                 6       defensa
+ Víctor Moses            11      defensa
+ Abdullahi Shehu         12      defensa
+ Chidozie Awaziem        20      defensa
+ Ebuehi                  21      defensa
+ Omeruo                  22      defensa
+-------------------------------------------------------------
+ Onyinye Ndidi           4       central
+ Etebo                   8       central
+ Obi Mikel               10      central 
+ Chukwuma                15      central 
+ Onazi                   17      central
+ Alex Iwobi              18      central 
+ John Ogu                19      central
+ Musa                    7       central 
+--------------------------------------------------------------
+ Ighalo                  9       delantero
+ Simmy                   13      delantero
+ K.Iheanacho             14      delantero
+
+ 

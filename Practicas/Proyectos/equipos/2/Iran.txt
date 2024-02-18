@@ -1,0 +1,29 @@
+                       Equipo de Iran
+
+Nombre    Apellido              Camiseta      Posicion     T.Roja    T.Amarilla
+
+Alireza   Safar Beiranvand         01         Portero   
+Amir      Abedzareh                22         Portero     
+Mohammad  Rashid Mazaheri          12         Portero      
+Milad     Mohammadi                05         Defensa 
+Mohammad  Reza Khanzadeh           13         Defensa
+Morteza   Pouraliganji             08 	      Defensa
+Pejman    Montazeri                15  	      Defensa
+Ramin     Rezaeian                 23 	      Defensa
+Roozbeh   Cheshmi                  04         Defensa
+Seyed     Majid Hosseini           19         Defensa
+Ashkan    Dejagah                  21         Central
+Ehsan     Hajsafi                  03         Central
+Masoud    Shojaei Soleimani        07         Central
+Mehdi     Torabi                   02         Central
+Omid      Ebrahimi                 09         Central
+Saeid     Ezatolahi Afagh          06         Central
+Vahid     Amiri                    11         Central
+Alireza   Jahanbakhsh              18         Delantero
+Karim     Ansarifad                10         Delantero
+Mehdi     Taremi                   17         Delantero
+Reza      Ghoochannejhad Nournia   16         Delantero
+Saman     Ghoddos                  14         Delantero
+Sardar    Azmoun                   20         Delantero
+ 
+Carlos Manuel Brito Leal Queiroz              Dir. Tecnico

@@ -1,0 +1,28 @@
+      Equipo de Francia
+
+Nombre    Apellido       Camiseta    Posicion     T.Roja    T.Amarilla
+
+Alphonse Areola             23        Portero   
+Hugo Loris                  01        Portero     
+Steve Mandanda              16        Portero      
+Benjamin Pavard             02        Defensa 
+Benjamin Mendy              22        Defensa
+Djibril Sidibé              19	      Defensa
+Lucas Hernandez Pi          21        Defensa
+Presnel Kimpembe            03 	      Defensa
+Raphaël Varane              04        Defensa
+Samuel Yves Umtiti          05        Defensa
+Blaise Matuidi              14        Central
+Corentin Tolisso            12        Central
+N'Golo Kanté                13        Central
+Paul Pogba                  06        Central
+Steven N'Kemboanza Mike     15        Central
+Thomas Lemar                08        Central
+Antoine Griezmann           07        Delantero
+Florian Thauvin             20        Delantero
+Kylian Mbappé Lottin        10        Delantero
+Nabil Fekir                 18        Delantero
+Olivier Giroud              09        Delantero
+Ousmane Dembélé             11        Delantero
+
+Didier Deschamps                      Dir. Tecnico

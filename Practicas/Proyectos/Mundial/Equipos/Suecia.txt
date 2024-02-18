@@ -1,0 +1,25 @@
+Suecia F
+"Tecnico_Andersson_Janne"
+"Robin_Olsen" 1  
+"Karl-Johan_Johnsson" 12  
+"Kristoffer_Nordfeldt" 23  
+"Mikael_Lusting" 2  
+"Victor_Lindelof" 3  
+"Andreas_Granqvist" 4  
+"Martin_Olsson" 5  
+"Ludwing_Augustinsson" 6  
+"Filip_Helander" 14  
+"Emil_Krafth" 16  
+"Potus_Jansson" 18  
+"Sebastian_Larsson" 7  
+"Albin_Ekdal" 8  
+"Emil_Forsberg" 10  
+"Gustav_Svensson" 13  
+"Oscar_Hiljemark" 15  
+"Viktor_Claesson" 17  
+"Marcus_Rohden" 19  
+"Jimmy_Durmas" 21  
+"Marcus_Berg" 9  
+"Isaac_Kiese_Thelin" 22  
+"John_Guidetti" 11  
+"Ola_Toivonen" 20  

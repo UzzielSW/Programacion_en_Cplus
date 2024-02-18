@@ -1,0 +1,25 @@
+CostaRica E
+"_Tecnico_Oscar_Ramirez"
+"Keylor_Navas" 1 
+"Patrick_Pemberton" 18 
+"Leonel_Moreira" 23 
+"Johnny_Acosta" 2 
+"Giancarlo_Gonzalez" 3 
+"Ian_Smith" 4 
+"Oscar_Duarte" 6 
+"Bryan_Oviedo" 8 
+"Francisco_Calvo" 15 
+"Cristian_Gamboa" 16 
+"Kendall_Waston" 19 
+"Kenner_Gutierrez" 22 
+"Celso_Borges" 5 
+"Christian_Bolanos" 7 
+"Daniel_Colindres" 9 
+"Bryan_Ruiz" 10 
+"Rodney_Wallace" 13 
+"Randall_Azofeifa" 14 
+"Yeltsin_Tejeda" 17 
+"David_Guzman" 20 
+"Johan_Venegas" 11 
+"Joel_Campbell" 12 
+"Marcos_Urena" 21 

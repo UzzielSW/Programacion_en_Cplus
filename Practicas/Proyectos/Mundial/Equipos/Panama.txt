@@ -1,0 +1,25 @@
+Panama G
+"tecnico_Hernán_Darío_Bolillo_Gomez"
+"Jaime_Penedo" 1 
+"Jose_Calderon" 12 
+"Alex_Rodriguez" 22 
+"Michael_Murillo" 2 
+"Harold_Cummings" 3 
+"Fidel_Escobar" 4 
+"Roman_Torres" 5 
+"Adolfo_Machado" 13 
+"Eric_Davis" 15 
+"Luis_Ovalle" 17 
+"Felipe_Baloy" 23 
+"Gabriel_Gomez" 6 
+"Edgar_Barcenas" 8 
+"Armando_Cooper" 11 
+"Valentin_Pimentel" 14 
+"Ricardo_Avila" 19 
+"anibal_godoy" 20 
+"José_Luis_Rodríguez" 21 
+"Blas_Perez" 7 
+"Gabriel_Torres" 9 
+"Ismael_Diaz_" 10 
+"Abdiel_Arrollo" 16 
+"Luis_Tejada" 18 

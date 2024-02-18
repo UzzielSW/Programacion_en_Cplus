@@ -1,0 +1,25 @@
+Nigeria D
+"tecnico__ROHR_Gernot"
+"Ikechukwu_Ezenwa" 1 
+"Daniel_Akpeyi" 16 
+"Francis_Uzoho" 23 
+"Bryan_Idowu" 2 
+"Elderson_Echiejile" 3 
+"William_Ekong" 5 
+"Leon_Balogun" 6 
+"Abdullahi_Shehu" 12 
+"Chidozie_Awaziem" 20 
+"Tyronne_Ebuehi" 21 
+"Kenneth_Omeruo" 22 
+"Wilfred_Ndidi" 4 
+"Oghenekaro_Eteb" 8 
+"John_Obi_Mikel" 10 
+"Joel_Obi" 15 
+"Ogenyi_Onazi" 17 
+"John_Ogu" 19 
+"Ahmed_Musa" 7 
+"Odion_Ighalo" 9 
+"Victor_Moses" 11 
+"Simeon_Nwankwo" 13 
+"Kelechi_Iheanacho" 14 
+"Alex_Iwobi" 18 

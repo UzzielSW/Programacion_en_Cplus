@@ -1,0 +1,25 @@
+      Nombre         camiseta    posicion   T.Roja  T.Amarilla
+
+ Patrick Pemberton      18       portero
+ Keylor Navas           1        portero
+ Leonel Moreira         23       portero
+ Francisco Calvo        15       defensa
+ Rodney Wallace         13       defensa
+ Ian Smith              4        defensa
+ Giancarlo gonzalez     3        defensa
+ kendall Waston         19       defensa
+ Cristian Gamboa        16       defensa
+ Oscar Duarte           6        defensa
+ Jhonny Acosta          2        defensa
+ Kenner Gutierrez       22       defensa
+ Brryann Oviedob        8        defensa
+ David Guzman           20       central
+ Christian Bolaños      7        central
+ Johan  Venegas         11       central
+ Celso Borges           5        central
+ Rabdall Azofeifa       14       central
+ Yetsin Tejeda          17       central
+ Daniel Colindres       9        central
+ Joel Campbell          12       central
+ Bryan Ruiz             10       central
+ Marcos Uñera           21       delantero

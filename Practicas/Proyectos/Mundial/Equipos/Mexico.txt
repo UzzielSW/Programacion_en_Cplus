@@ -1,0 +1,25 @@
+Mexico F
+"tecnico_JUAN_CARLOS_OSORIO"
+"Jose_Corona" 1 
+"Alfredo_Talavera" 12 
+"Guillermo_Ochoa" 13 
+"Hugo_Ayala" 2 
+"Carlos_Salcedo" 3 
+"Rafael_Marquez" 4 
+"Hector_Moreno" 15 
+"Hector_Herrare" 16 
+"Edson_Alvarez" 21 
+"Erick_Gutierrez" 5 
+"Jonathan_Dos_Santos" 6 
+"Miguel_Layun" 7 
+"Giovani_Dos_Santos" 10 
+"Jesus_Corona" 17 
+"Andres_Guardado" 18 
+"Javier_Aquino" 20 
+"Jesus_Gallardo" 23 
+"Marco_Fabian" 8 
+"Raul_Jimenez" 9 
+"Carlos_Vela" 11 
+"Javier_Hernandez" 14 
+"Oribe_Peralta" 19 
+"Hirving_Lozano" 22 

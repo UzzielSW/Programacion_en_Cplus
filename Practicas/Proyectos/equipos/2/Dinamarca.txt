@@ -1,0 +1,30 @@
+ Equipo de Dinamarca
+
+Nombre    Apellido              Camiseta      Posicion     T.Roja    T.Amarilla
+
+Frederik Ronnow                     22        Portero   
+Jonas Lossi                         16        Portero     
+Kasper Schmeichel                   01        Portero      
+Andreas Christensen                 06        Defensa
+Henrik Dalsgaard                    14        Defensa
+Jannik Vestergaard                  03        Defensa
+Jeans Stryger Larsen                17        Defensa
+Jonas Knudsen                       05        Defensa
+Mathias Jattah-Njie Jorgensen       13        Defensa
+Simon Thorup Kjaer                  04        Defensa
+Christian Dannemann Eriksen         10        Central
+Lasse Schöne                        19        Central
+Lukas Reiff Lerager                 18        Central
+Michael Krohn-Dehli                 02        Central
+Thomas Delaney                      08        Central
+Viktor Fischer                      15        Central
+William Vitved Kvist Jorgensen      07        Central
+Andreas Evald Cornelius             21        Delantero
+Kasper Dolberg                      12        Delantero
+Martin Braithwaite Christensen      11        Delantero
+Nicolai Jorgensen                   09        Delantero
+Pione Sisto Ifolo Emirmijia         23        Delantero
+Yussuf Yurary Poulsen               20        Delantero
+
+
+Age Fridtjof Hareide                

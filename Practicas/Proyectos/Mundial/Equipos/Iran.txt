@@ -1,0 +1,25 @@
+Iran B
+"tecnico_QUEIROZ_Carlos"
+"Alireza_Beiranvand" 1 
+"Mohammad_Mazaheri_" 12 
+"Amir_Abedzadeh" 22 
+"Ehsan_Hajsafi" 3 
+"Rouzbeh_Cheshmi" 4 
+"Milad_Mohammadi" 5 
+"Morteza_Pouraliganji" 8 
+"Mohammad_Reza_Khanzadeh" 13 
+"Pejman_Montazeri" 15 
+"Majid_Hosseini" 19 
+"Ramin_Rezaeian" 23 
+"Mehdi_Torabi" 2 
+"Saeid_Ezatolahi" 6 
+"Masoud_Shojaei" 7 
+"Omid_Ebrahimi" 9 
+"Vahid_Amiri" 11 
+"Karim_Ansarifard" 10 
+"Saman_Ghoddos" 14 
+"Reza_Ghoochannejhad" 16 
+"Mehdi_Taremi" 17 
+"Alireza_Jahanbakhsh" 18 
+"Sardar_Azmoun" 20 
+"Ashkan_Dejagah" 21

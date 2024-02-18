@@ -1,0 +1,29 @@
+                      Equipo de Australia
+
+Nombre    Apellido              Camiseta      Posicion     T.Roja    T.Amarilla
+
+Brad Jones                       12      Portero   
+Danny Vukovic                    18      Portero     
+Mathew Ryan                      01      Portero      
+Aziz Eraltay Behich              16      Defensa 
+James Meredith                   03      Defensa
+Josh Risdon                      19      Defensa
+Matthew Jurman                   06      Defensa
+Milos Degenek                    02      Defensa
+Thent Sainsbury                  20      Defensa
+Aaron Mooy                       13      Central
+Andrew Nabbout                   11      Central
+Daniel Arzani                    17      Central
+Jackson Irvine                   22      Central
+Mark Milligan                    05      Central
+Massimo Luongo                   25      Central
+Mathew Leckie                    17      Central
+Mile Jedinak                     15      Central
+Tom Rogic                        23      Central
+Dimitri Petratos                 21      Delantero
+Jamie MacLaren                   14      Delantero
+Robbie Kruse                     10      Delantero
+Tim Cahill                       04      Delantero
+Tomi Juric                       09      Delantero
+ 
+Bert Van Marwijk                         Dir. Tecnico

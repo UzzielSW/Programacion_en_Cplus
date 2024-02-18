@@ -1,0 +1,28 @@
+ Nombre       |      camiseta  | posicion  | T.Roja  T.Amarilla
+--------------------------------------------------------------
+ Al Hadari               1       portero
+ Ekramy                  16      portero
+ Mohamed El-Shenawy      23      portero
+--------------------------------------------------------------
+ Ali Gabr                2       defensa
+ Al Muhammadi            3       defensa
+ Gaber                   4       defensa
+ Hegazy                  6       defensa
+ Ayman Ashraf            12      defensa
+ Abdel-Shafy             13      defensa
+ Mahmoud Hamdi           15      defensa
+Saadelin Saad            20      defensa 
+--------------------------------------------------------------
+ Ahmed Fathi             7       central
+ Tarek Hamed             8       central
+ Kahraba                 11      central 
+ Ramadan Sobhy           14      central 
+ Mohamed Elneny          17      central 
+ Shikabala               18      central
+ Abdallah Said           19      central 
+ Treseguet               21      central
+--------------------------------------------------------------
+ Warda                   22      delantero
+ Mohsen                  9       delantero
+ Salah                   10      delantero
+ 

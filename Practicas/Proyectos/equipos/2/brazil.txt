@@ -1,0 +1,28 @@
+ Nombre       |      camiseta  | posicion  | T.Roja  T.Amarilla
+--------------------------------------------------------------
+ Alisson                 1       portero
+ Ederson                23       portero
+ Cássio                 16       portero
+--------------------------------------------------------------
+ Thiago Silva            2       defensa
+ Marquinhos              13      defensa
+ Miranda                 3       defensa
+ Pedro Geromel           4       defensa
+ Danilo                  14      defensa
+ Fagner                  22      defensa
+ Marcelo                 12      defensa
+ Filipe Luis             6       defensa
+--------------------------------------------------------------
+ Casemiro                5       central
+ Fernandinho             17      central
+ Paulinho                15      central 
+ Fred                    18      central 
+ Renato Augusto          8       central 
+ Philippe Cautinho       11      central
+ Willian                 19       central 
+ Douglas Costa           7       central
+--------------------------------------------------------------
+ Neymar Jr.             10      delantero
+ Taison                 21       delantero
+ Gabriel Jesús          9      delantero
+ Roberto Firmino        20      delantero

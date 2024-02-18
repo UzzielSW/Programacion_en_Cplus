@@ -1,0 +1,25 @@
+Tunez G
+"Tecnico_Maaloul_Nabil"
+"Farouk_Ben_Mustapha" 1  
+"Aymen_Mathlouthi" 34  
+"Mouez_Hassen" 22  
+"Syam_Ben_Youssef" 2  
+"Yohan_Ben_Alauane" 3  
+"Yassine_Meriah" 4  
+"Oussama_Haddadi" 5  
+"Rami_Bedoui" 6  
+"Dylan_Bronn" 11  
+"Ali_Maaloul" 12  
+"Hamdi_Naguez" 21  
+"Anice_Badri" 9  
+"Ferjani_Sassi"   
+"Mohamed_Ben_amor" 14  
+"Ellyes_Skhiri" 17  
+"Saifeddine_Khaoui" 7  
+"Fakhreddine_Ben_Youssef" 8  
+"Wahdi_Khazri" 10  
+"Ahmed_Khalil" 15  
+"Bassem_Srarfi" 18  
+"Saber_Khalifa" 19  
+"Ghaylen_chaaleli" 20  
+"Naim_Sliti" 23  

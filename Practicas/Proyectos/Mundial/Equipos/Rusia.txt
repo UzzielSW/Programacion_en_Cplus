@@ -1,0 +1,25 @@
+Rusia A
+"tecnico_CHERCHESOV_Stanislav"
+"Igor_AKINFEEV" 1  
+"Andrei_LUNEV" 12  
+"Vladimir_GABULOV" 20  
+"MARIO_FERNANDES" 2  
+"Ilya_KUTEPOV" 3  
+"Sergey_IGNASHEVICH" 4  
+"Andrey_SEMENOV" 5  
+"Fedor_KUDRIASHOV" 13  
+"Vladimir_GRANAT" 14  
+"Igor_SMOLNIKOV" 23  
+"Denis_CHERYSHEV" 6  
+"Daler_KUZIAEV" 7  
+"Iury_GAZINSKY" 8  
+"Alan_DZAGOEV" 9  
+"Roman_ZOBNIN" 11  
+"Alexey_MIRANCHUK" 15  
+"Anton_MIRANCHUK" 16  
+"Aleksandr_GOLOVIN" 17  
+"Yury_ZHIRKOV" 18  
+"Alexander_SAMEDOV" 19  
+"Aleksandr_EROKHIN" 21  
+"Fedor_SMOLOV" 10  
+"Artem_DZYUBA" 22 

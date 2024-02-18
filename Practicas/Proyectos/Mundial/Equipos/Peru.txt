@@ -1,0 +1,25 @@
+Peru C
+"tecnico_GARECA_Ricardo"
+"Pedro_Gallese" 1 
+"Carlos_Caceda" 12 
+"Jose_Carvallo" 21 
+"_Alberto_Rodriguez" 2 
+"_Aldo_Corzo" 3 
+"_Anderson_Santamaria" 4 
+"_Miguel_Araujo" 5 
+"Miguel_Trauco" 6 
+"Christian_Ramos" 15 
+"_Luis_Advincuela" 17 
+"Nilson_Loyola" 22 
+"_Paolo_Hurtado" 7 
+"_Christian_Cueva" 8 
+"Renato_Tapia" 13 
+"Andy_Polo" 14 
+"Wilder_Cartajena" 16 
+"Yoshimar_Yotun" 19 
+"Pedro_Aquino" 23 
+"Paolo_Guerrero" 9 
+"Jefferson_Farfan" 10 
+"Raul_Ruidiaz" 11 
+"Andre_Carrillo" 18 
+"Edison_Flores" 20 

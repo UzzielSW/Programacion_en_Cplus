@@ -1,0 +1,25 @@
+Polonia H
+"tencico_Adam_Nawalka"
+"Wojciech_Szczesny" 1 
+"Bartosz_Bialkowski" 12 
+"Lukasz_Fabianski" 22 
+"Michal_Pazdan" 2 
+"Artur_Jedrzejczyk" 3 
+"Thiago_Rangel_Cionek" 4 
+"Jan_Bednarek" 5 
+"Kamil_Glik" 15 
+"Bartosz_Bereszynski" 18 
+"Lukasz_Piszczek" 20 
+"Jacek_Goralski" 6 
+"Karol_Linetty" 8 
+"Grzegorz_Krychowiak" 10 
+"Kamil_Grosicki" 11 
+"Maciej_Rybus" 13 
+"Jakub_Blaszczykowski" 16 
+"Slawomir_Peszko" 17 
+"Piotr_Zielinski_" 19 
+"Rafal_Kurzawa" 21 
+"Arkadiusz_Milik" 7 
+"Robert_Lewandowski" 9 
+"Lukasz_Teodorczyk_" 14 
+"Dawid_Kownacki_" 23 

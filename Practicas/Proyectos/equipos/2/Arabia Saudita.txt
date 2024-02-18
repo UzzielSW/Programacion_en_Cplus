@@ -1,0 +1,29 @@
+ Nombre       |      camiseta  | posicion  | T.Roja  T.Amarilla
+--------------------------------------------------------------
+ Al-Mosailem             1       portero
+ Abdullah Al-Mayoof      21      portero
+ Mohammed Alowais        22      portero
+--------------------------------------------------------------
+ Mansour Al-Harbi        2       defensa
+ Hawsawi                 3       defensa
+ Ali Albulayhi           4       defensa
+ Omar Hawsawi            5       defensa
+ Mohammed Alburayk       6       defensa
+ Al-Shahrani             13      defensa
+ Motaz Hawsawi           23      defensa
+--------------------------------------------------------------
+ Salman Al-Faraj         7       central
+ Al-Shehri               8       central
+ Hattan Bahebri          9       central 
+ Abdulmalek Al-Khaibri   11      central 
+ Mohammed Kanno          12      central 
+ Abdullah Ateef          14      central
+ Abdullah Alkhaibari     15      central 
+ Al-Mogahwi              16      central
+ Al-Jassam               17      centarl
+ Salem Al Dawsari        18      central
+--------------------------------------------------------------
+ Al-Sahlawi              10      delantero
+ Fahad Al-Muwallad       19      delantero
+ Mohannad Aseri          20      delantero
+ 

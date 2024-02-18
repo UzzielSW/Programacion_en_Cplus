@@ -1,0 +1,28 @@
+ Nombre       |      camiseta  | posicion  | T.Roja  T.Amarilla
+--------------------------------------------------------------
+ Muslera                 1       portero
+ Martin Campaña          12      portero
+ Martin silva            23      portero
+--------------------------------------------------------------
+ Gimenez                 2       defensa
+ Godin                   3       defensa
+ Guillermo Varela        4       defensa
+ Gaston Silva            13      defensa
+ Maxi Pereira            16      defensa
+ Sebastian Coates        19      defensa
+ Martin Caceres          22      defensa
+--------------------------------------------------------------
+ Carlos Sanchez          5       central
+ Rodrigo Bentacur        6       central
+ Cebolla Rodriguez       7       central 
+ Nahitan Nádez           8       central 
+ De Arrascaeta           10      central 
+ Lucas Torreira          16      central
+ Matias Vecino           15      central 
+ Diego Laxalt            17      central
+ Urreta                  20      centarl
+--------------------------------------------------------------
+ Luis Suárez             9       delantero
+ Stuani                  11      delantero
+ Maxi Gómez              18      delantero
+ Cavan                   21      delantero

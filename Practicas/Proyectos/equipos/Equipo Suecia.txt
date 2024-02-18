@@ -1,0 +1,25 @@
+      Nombre         camiseta    posicion   T.Roja  T.Amarilla
+
+ Karl Johan Johnsson     12      portero
+ Robin Olsen             1       portero
+ Kristoffer Nrdfeldt     23      portero
+ Mikael Luistig          2       defensa
+ Ludwig Augustinsoon     6       defensa
+ Filip Helander          14      defensa
+ Emil Krafth             16      defensa
+ Pontus janssoon         18      defensa
+ Victor Lindelof         3       defensa
+ Marin Olsson            5       defensa
+ Andreas Granqvist       4       defensa
+ Albin Ekdal             8       central
+ Emil Forsberg           10      central
+ Oscar Hiljemark         15      central
+ Gustav Svensson         13      central
+ Jimmy Durmaz            21      central
+ Marcus Rohden           19      central
+ Viktor Claesson         17      central
+ Sebastian Larsson       7       central
+ Ola Toivonen            20      delantero
+ John Guidetti           11      delantero
+ issac thelin            22      delantero
+ Markus Berg             9       delantero

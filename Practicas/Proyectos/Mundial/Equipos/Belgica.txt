@@ -1,0 +1,25 @@
+Belgica G
+"tecnico_Martinez_Roberto"
+"Thibaut_Courtois" 1 
+"Simon_Mignolet" 12 
+"Koen_Casteels" 13 
+"Toby_Alderweireld" 2 
+"Thomas_Vermaelen" 3 
+"Vincent_Kompany" 4 
+"Jan_Vertonghen" 5 
+"Thomas_Meunier" 15 
+"Dedryck_Boyata" 20 
+"Leander_Dendoncker" 23 
+"Axel_Witsel" 6 
+"Kevin_De_Bruyne" 7 
+"Marouane_Fellaini" 8 
+"Yannick_Carrasco" 11 
+"Thorgan_Hazard" 16 
+"Youri_Tielemans" 17 
+"Moussa_Dembélé" 19 
+"Nacer_Chadli" 22 
+"Romelu_Lukaku" 9 
+"Eden_Hazard" 10 
+"Dries_Mertens" 14 
+"Adnan_Januzaj" 18 
+"Michy_Batshuayi" 21 

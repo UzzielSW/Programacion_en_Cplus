@@ -1,0 +1,30 @@
+ Nombre       |      camiseta  | posicion  | T.Roja  T.Amarilla
+--------------------------------------------------------------
+ Guzmán                  1       portero
+ Franco Armani           12      portero
+ Caballero               23      portero
+--------------------------------------------------------------
+ Mercado                 2       defensa
+ Tagliafico              3       defensa
+ Ansaldi                 4       defensa
+ Fazio                   6       defensa
+ Marcos Rojo             16      defensa
+ Otamendi                17      defensa
+-------------------------------------------------------------
+ Biglia                  5       central
+ Banega                  7       central
+ Marcos Acuña            8       central
+ Di Maria                11      central
+ Maximiliano             13      central
+ Mascherano              14      central 
+ Enzo Pérez              15      central 
+ Salvio                  18      central
+ Giovani Lo Celso        20      central
+--------------------------------------------------------------
+ Higuaín                 9       delantero 
+ Messi                   10      delantero
+ Aguero                  19      delantero
+ Paulo Dybala            21      delantero
+ Cristian Pavon          22      delantero
+
+ 

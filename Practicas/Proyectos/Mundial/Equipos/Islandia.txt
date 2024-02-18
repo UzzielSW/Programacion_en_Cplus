@@ -1,0 +1,25 @@
+Islandia D
+"tecnico_HALLGRIMSSON_Heimir"
+"Hannes_HALLDORSSON" 1 
+"Frederik_SCHRAM" 12 
+"Runar_RUNARSSON" 13 
+"Birkir_SAEVARSSON" 2 
+"Sverrir_INGASON" 5 
+"Ragnar_SIGURDSSON" 6 
+"Kari_ARNASON" 14 
+"Holmar_EYJOLFSSON" 15 
+"Hordur_MAGNUSSON" 18 
+"Ari_SKULASON" 23 
+"Samuel_FRIDJONSSON" 3 
+"Albert_GUDMUNDSSON" 4 
+"Johann_GUDMUNDSSON" 7 
+"Birkir_BJARNASON" 8 
+"Gylfi_SIGURDSSON" 10 
+"Olafur_SKULASON" 16 
+"Aron_GUNNARSSON" 17 
+"Rurik_GISLASON" 19 
+"Emil_HALLFREDSSON" 20 
+"Arnor_TRAUSTASON" 21 
+"Bjorn_SIGURDARSON" 9 
+"Alfred_FINNBOGASON" 11 
+"Jon_BODVARSSON" 22 

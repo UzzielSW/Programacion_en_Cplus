@@ -1,0 +1,25 @@
+      Nombre         camiseta    posicion   T.Roja  T.Amarilla
+
+ Manuel Neuer            1       portero
+ Marc-Andre ter Stegen   22      portero
+ Kevin Trapp             12      portero
+ Antonio Rudiger         16      defensa
+ Niklas Sule             15      defensa
+ Matthias Ginter         4       defensa
+ Joshua Kimmich          18      defensa
+ Mats Hummels            5       defensa
+ Jerome Boateng          17      defensa
+ Marvin Plattenhardt     2       defensa
+ Sami Khedira            6       central
+ Jonas Hector            3       central
+ Mesut Ozil              10      central
+ Julian Brandt           20      central 
+ Sebastian rudy          19      central 
+ Ilkay Gundogan          21      central 
+ Leon Goretzka           14      central
+ Julian Draxler          7       central 
+ Toni Kroos              8       central
+ Marcos Reus             11      delantero
+ Timo Werner             9       delantero
+ Mario Gomez             23      delantero
+ Thomas Muller           13      delantero

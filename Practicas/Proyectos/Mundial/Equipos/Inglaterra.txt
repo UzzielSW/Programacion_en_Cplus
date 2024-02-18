@@ -1,0 +1,25 @@
+Inglaterra G
+"tecnico_Gareth_Southgate"
+"Jordan_Pickford" 1 
+"Jack_Butland" 13 
+"Nick_Pope" 23 
+"Kyle_Walker" 2 
+"Danny_Rose" 3 
+"John_Stones" 5 
+"Harry_Maguire" 6 
+"Kieran_Trippier" 12 
+"Gary_Cahill" 15 
+"Phil_Jones" 16 
+"Fabian_Delph" 17 
+"Ashley_Young" 18 
+"Trent_Alexander-Arnold" 22 
+"Eric_Dier" 4 
+"Jesse_Lingard" 7 
+"Jordan_Henderson" 8 
+"Dele_Alli" 20 
+"Ruben_Loftus-Cheek" 21 
+"Harry_Kane" 9 
+"Raheem_Sterling" 10 
+"Jamie_Vardy" 11 
+"Danny_Welbeck" 14 
+"Marcus_Rashford" 19 

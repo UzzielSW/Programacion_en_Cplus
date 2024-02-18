@@ -1,0 +1,27 @@
+equipo de Perú
+
+Nombre    Apellido           Camiseta    Posicion     T.Roja    T.Amarilla
+
+Carlos  Caceda Oyaguez            12      Portero   
+José Carvallo Alonso              21      Portero     
+Pedro Gallese Quiroz              01      Portero      
+Alberto Rodriguez                 02      Defensa 
+Aldo Corzo Chávez                 03      Defensa
+Anderson Santamaria               04      Defensa
+Christian Ramos Garay             15      Defensa
+Luis Advíncula Castillón          17      Defensa
+Miguel Trauco Saavedra            06      Defensa
+Miguel 	Araujo Blanco             05      Defensa
+Nilson Layola Morales             22      Defensa
+Christian Cueva                   08      Central
+Christoper Hurtado                07      Central
+Edison Flores                     20      Central
+Pedro Aquino                      23      Central
+Renato Tapia                      13      Central
+Victor Yotúm                      19      Central
+Wilder Cartagena Mendoza          16      Central
+André Carrillo                    18      Delantero
+Andy Polo                         14      Delantero
+Jefferson Farfán                  10      Delantero
+Jose Gerrero                      09      Delantero
+Raul Ruidíaz misitich             11      Delantero

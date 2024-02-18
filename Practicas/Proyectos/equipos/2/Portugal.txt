@@ -1,0 +1,28 @@
+ Nombre       |      camiseta  | posicion  | T.Roja  T.Amarilla
+--------------------------------------------------------------
+ Raul Patrício           1       portero
+ Anthony Lopez           12      portero
+ Beto                    22      portero
+--------------------------------------------------------------
+ Bruno Alves             2       defensa
+ Pepe                    3       defensa
+ Raphael Guerreiro       5       defensa
+ Fonte                   6       defensa
+ Rúben Dias              13      defensa
+ Ricardo Pereira         15      defensa
+ Mário Rui               19      defensa
+ Cedric Sores            21      defensa 
+--------------------------------------------------------------
+ Manuel Fernandes        4       central
+ Moutinho                8       central 
+ joáo Mario              10      central 
+ Bernardo Silva          11      central
+ William Carvalho        14      central 
+ Bruno Fernandes         16      central
+ Adrien Silva            23      central 
+--------------------------------------------------------------
+ Cristiano               7       delantero
+ André Silva             9       delantero
+ Goncalo Guedes          17      delantero
+Gelson Martins           18      delantero
+ 

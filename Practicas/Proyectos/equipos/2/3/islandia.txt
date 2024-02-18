@@ -1,0 +1,31 @@
+ Nombre       |      camiseta  | posicion  | T.Roja  T.Amarilla
+--------------------------------------------------------------
+ Halldórsson             1       portero
+ Schram                  12      portero
+ Rúnar Rúnarsson         13      portero
+--------------------------------------------------------------
+ Saeversson              2       defensa
+ Sverrir Ingi Ingason    5       defensa
+ Ragnar Sigurdsson       6       defensa
+ Arnason                 14      defensa
+ Eyjolfsson              15      defensa
+ Magmusson               18      defensa
+ Ari Skúlason            23      defensa 
+-------------------------------------------------------------
+ Samuel Fari Fridjonsson 3       central
+ Albert Gudmundsson      4       central
+ Gudmundsson             7       central
+ Bjarnason               8       central
+ Cylfi Sigurdsson        10      central
+ Olafur Skulason         16      central
+ Aron Gunnarsson         17      central 
+ Gislason                19      central
+ Hallfredsson            20      central
+ Traustason              21
+--------------------------------------------------------------
+ Bjorn Sigurdarson       9       delantero 
+ Finnbogason             11      delantero          
+ Bodvarsson              22      delantero
+ 
+
+ 

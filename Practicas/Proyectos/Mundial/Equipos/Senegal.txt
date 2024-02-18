@@ -1,0 +1,25 @@
+Senegal H
+"Tecnico_Aliou_Cisse"
+"Abdoulaye_Diallo" 1
+"Khadim_Ndiaye" 16
+"Alfred_GOMIS" 23
+"Adama_Mbengue" 2
+"Kalidou_Koulibaly" 3
+"Kara_Mbodji" 4
+"Youssouf_Sabaly" 12
+"Lamine_Gassama" 21
+"Moussa_Wague" 22
+"Idrissa_Gana_Gueye" 5
+"Salif_Sane" 6
+"Cheikhou_Kouyate" 8
+"Cheikh_Ndoye" 11
+"Alfred_Ndiaye" 13
+"Pape_Alioune_Ndiaye" 17
+"Moussa_Sow" 7
+"Mame_Diouf" 9
+"Sadio_Mane" 10
+"Moussa_Konate" 14
+"Diafra_Sakho" 15
+"Ismaila_Sarr" 18
+"Mbaye_Niang" 19
+"Keita_Balde" 20
