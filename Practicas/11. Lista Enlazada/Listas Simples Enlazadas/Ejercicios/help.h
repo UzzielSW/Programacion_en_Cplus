@@ -1,107 +1,129 @@
 #ifndef HELP_H
-#define HELP_H 
+#define HELP_H
 
-struct NODO{
+struct NODO
+{
 	int num;
 	struct NODO *liga;
 };
 
 // CREAR NODO
-	void *creaMemoria(int n);
-	NODO *creaNodo();
+void *creaMemoria(int n);
+NODO *creaNodo();
 
 // VACIAR LISTA
-	NODO *liberaMemoria(NODO *);
+NODO *liberaMemoria(NODO *);
 
 // RECORRER LISTA
-	void recorreRecursivo(NODO *);
+void recorreRecursivo(NODO *);
 
-	int getData();
-	NODO *creaFinal();
+int getData();
+NODO *creaFinal();
+NODO *insertar(NODO *, int n);
 
-	bool busqueda(NODO *, int);
-	NODO *enlazado(NODO *, NODO **, int);
-
+bool busqueda(NODO *, int);
+NODO *enlazado(NODO *, NODO **, int);
 
 // -----------------------------------------------------------------------
 void *creaMemoria(int n)
 {
-	void *p = (int *) malloc(n);
+	void *p = (int *)malloc(n);
 	if (p == NULL)
 	{
-	 	puts("Lo siento no hay memoria disponible");
-	 	getchar();
-	    exit(1);
+		puts("Lo siento no hay memoria disponible");
+		getchar();
+		exit(1);
 	}
-	
-  return (p);	
+
+	return (p);
 }
 
-NODO *creaNodo() {	return (NODO *) creaMemoria(sizeof(NODO));	}
+NODO *creaNodo() { return (NODO *)creaMemoria(sizeof(NODO)); }
 
 NODO *creaFinal()
 {
 	int i, num;
 	NODO *p, *t, *q;
-	
+
 	p = creaNodo();
-	
+
 	printf("\n Introduzca un valor entero: ");
-	i = scanf("%d",&num);
+	i = scanf("%d", &num);
 
-	if(i == 1)
+	if (i == 1)
 	{
-	 	p->num = num;
-	 	p->liga = NULL;
+		p->num = num;
+		p->liga = NULL;
 
-	 	t = p;
+		t = p;
 
 		do
 		{
-		 	q = creaNodo();
+			q = creaNodo();
 
-		 	printf("\n Introduzca un valor entero: ");
-	        i = scanf("%d",&num);
-	        fflush(stdin);
+			printf("\n Introduzca un valor entero: ");
+			i = scanf("%d", &num);
+			fflush(stdin);
 
-	        if(i == 1)
-			{ 
-			    q->num = num;
+			if (i == 1)
+			{
+				q->num = num;
 				q->liga = NULL;
 				t->liga = q;
 				t = q;
-			} 
-			else{
+			}
+			else
+			{
 				free(q);
 				break;
 			}
-				   
-		}while(i == 1);	
+
+		} while (i == 1);
 	}
 	else
 		return NULL;
-   
-	return p;  
-} 
 
+	return p;
+}
+
+NODO *insertar(NODO *p, int num)
+{
+	NODO *q = creaNodo();
+
+	q->num = num;
+	q->liga = NULL;
+
+	if (p == NULL)
+		p = q;
+	else
+	{
+		NODO *t = p;
+		while (t->liga != NULL)
+			t = t->liga;
+
+		t->liga = q;
+	}
+
+	return p;
+}
 
 NODO *liberaMemoria(NODO *p)
 {
-	if(p != NULL)
+	if (p != NULL)
 	{
 		NODO *q;
 
-		while(p != NULL)
+		while (p != NULL)
 		{
 			q = p;
 			p = p->liga;
-			free(q);		
+			free(q);
 		}
 
-		printf("\nLa memoria ha sido liberada");	
+		printf("\nLa memoria ha sido liberada");
 	}
 
-	return(p);
+	return (p);
 }
 
 void recorreRecursivo(NODO *p)
@@ -110,35 +132,35 @@ void recorreRecursivo(NODO *p)
 	{
 		printf("%2d-> ", p->num);
 
-		if(p->liga != NULL)
-		  	recorreRecursivo(p->liga);
+		if (p->liga != NULL)
+			recorreRecursivo(p->liga);
 		else
-		    printf("%s", p->liga);	
+			printf("%s", p->liga);
 	}
-	else 
-	    printf("\tLa lista esta vacia");
+	else
+		printf("\tLa lista esta vacia");
 }
 
-int getData(){
-	int num,i;
+int getData()
+{
+	int num, i;
 	do
 	{
 		printf("\n Introduzca un valor entero: ");
-		i = scanf("%d",&num);
+		i = scanf("%d", &num);
 		fflush(stdin);
 	} while (!i);
 
 	return num;
 }
 
-
 bool busqueda(NODO *p, int dato)
 {
 	if (p != NULL)
 	{
-		register NODO *q = p;
+		NODO *q = p;
 
-		while(q->liga != NULL && q->num != dato)
+		while (q->liga != NULL && q->num != dato)
 			q = q->liga;
 
 		if (q->num == dato)
@@ -148,7 +170,6 @@ bool busqueda(NODO *p, int dato)
 	return false;
 }
 
-
 NODO *enlazado(NODO *p, NODO **q, int dato)
 {
 	if (p == NULL)
@@ -157,7 +178,8 @@ NODO *enlazado(NODO *p, NODO **q, int dato)
 		p->liga = NULL;
 		p->num = dato;
 		*q = p;
-	}else
+	}
+	else
 	{
 		NODO *nodo = creaNodo();
 		nodo->liga = NULL;
@@ -168,6 +190,5 @@ NODO *enlazado(NODO *p, NODO **q, int dato)
 
 	return (p);
 }
-
 
 #endif

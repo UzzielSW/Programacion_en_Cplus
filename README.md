@@ -87,3 +87,7 @@ Estan todos los programas vistos en el curso, tanto los practicos hechos en el c
 ## Correcciones
 
 1. Tener en cuenta que varias funciones puede que solo funcionen en Windows o esten actualizadas por otras. En version de Dev-C++ deberia funcionar. Mientras que para compiladores mas actuales puede que den error. Sin embargo la logica es la misma solo es cambiar la sintaxis.
+
+## Pendientes
+
+* Organizar mejor y optimizar la informacion de los ultimos modulos agregados (commit anterior): Listas, Arboles, POO, Plantillas STL, Proyectos, etc.
