@@ -2,3 +2,8 @@ Idea de proyecto con arboles balanceados:
 
 Proyecto de Avion
 Programa que almacena los equipajes.
+
+
+loading....
+	- problemas [pag 173]
+	- Arboles Balanceados [pag 214 a 240]

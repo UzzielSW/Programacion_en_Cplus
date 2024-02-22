@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-//ALGORITMOS
+// ALGORITMOS
 #include "help1_5.h"
 #include "help6_10.h"
 #include "help11_15.h"
@@ -15,7 +15,8 @@ int main()
 	char res;
 
 	do
-	{system("cls");
+	{
+		system("cls");
 		printf("\n\t\t.: LISTAS SIMPLE ENLAZADAS :.");
 		printf("\n\n\t1. Crea inicio\t\t\t\t[0]{Vaciar lista}");
 		printf("\n\t2. Crea final");
@@ -40,190 +41,206 @@ int main()
 		printf("\n\nopc? ");
 
 		fflush(stdin);
-		v = scanf("%d",&opc);
-		if(!v) break;
-
-		switch(opc){
-
-			case 0:list = liberaMemoria(list);break;
-
-			case 1:
-				if(list == NULL)
-					list = creaInicio();
-				else 
-					printf("LA LISTA YA ESTA CREADA");
+		v = scanf("%d", &opc);
+		if (!v)
 			break;
 
-			case 2:
-				if(list == NULL)
-					list = creaFinal();
-				else 
-					printf("LA LISTA YA ESTA CREADA");
+		switch (opc)
+		{
+
+		case 0:
+			list = liberaMemoria(list);
 			break;
 
-			case 3:
-				if(list != NULL){
-					printf("\n [R] or [I]:_");
-					v = scanf("%c",&res);
+		case 1:
+			if (list == NULL)
+				list = creaInicio();
+			else
+				printf("LA LISTA YA ESTA CREADA");
+			break;
 
-					if(v)
-						if(res == 'R' || res == 'r')
-							recorreRecursivo(list);
-						else 
-							recorreIterativo(list);
+		case 2:
+			if (list == NULL)
+				list = creaFinal();
+			else
+				printf("LA LISTA YA ESTA CREADA");
+			break;
+
+		case 3:
+			if (list != NULL)
+			{
+				printf("\n [R] or [I]:_");
+				v = scanf("%c", &res);
+
+				if (v)
+					if (res == 'R' || res == 'r')
+						recorreRecursivo(list);
 					else
-						 recorreIterativo(list);
-				}
-				else 
-					printf("\n\tLa lista esta vacia");
+						recorreIterativo(list);
+				else
+					recorreIterativo(list);
+			}
+			else
+				printf("\n\tLa lista esta vacia");
 			break;
 
-			case 4:
-				if(list == NULL)
-					list = creaInicio();
-				else 
-					list = insertarInicio(list);
+		case 4:
+			if (list == NULL)
+				list = creaInicio();
+			else
+				list = insertarInicio(list);
 			break;
 
-			case 5:
-				if(list == NULL)
-					list = creaFinal();
-				else 
-					list = insertarFinal(list);
+		case 5:
+			if (list == NULL)
+				list = creaFinal();
+			else
+				list = insertarFinal(list);
 			break;
 
-			case 6:
+		case 6:
+			recorreRecursivo(list);
+			list = inserta_antes_X(list);
+			recorreRecursivo(list);
+			break;
+
+		case 7:
+			recorreRecursivo(list);
+			list = inserta_despues_X(list);
+			recorreRecursivo(list);
+			break;
+
+		case 8:
+			if (list != NULL)
+			{
 				recorreRecursivo(list);
-				list = inserta_antes_X(list);
+				list = elimina_inicio(list);
 				recorreRecursivo(list);
+			}
+			else
+				printf("\n\tLa lista esta vacia");
 			break;
 
-			case 7:
+		case 9:
+			if (list != NULL)
+			{
 				recorreRecursivo(list);
-				list = inserta_despues_X(list);
+				list = elimina_ultimo(list);
 				recorreRecursivo(list);
+			}
+			else
+				printf("\n\tLa lista esta vacia");
 			break;
 
-			case 8:
-				if (list != NULL){
-					recorreRecursivo(list);
-					list = elimina_inicio(list);				
-					recorreRecursivo(list);
-				}			
-				else
-					printf("\n\tLa lista esta vacia");
+		case 10:
+			if (list != NULL)
+			{
+				recorreRecursivo(list);
+				list = elimina_X(list);
+				recorreRecursivo(list);
+			}
+			else
+				printf("\n\tLa lista esta vacia");
 			break;
 
-			case 9:
-				if (list != NULL){
-					recorreRecursivo(list);
-					list = elimina_ultimo(list);
-					recorreRecursivo(list);
-				}
-				else
-					printf("\n\tLa lista esta vacia");			
+		case 11:
+			if (list != NULL)
+			{
+				recorreRecursivo(list);
+				list = elimina_antes_X(list);
+				recorreRecursivo(list);
+			}
+			else
+				printf("\n\tLa lista esta vacia");
 			break;
 
-			case 10:
-				if (list != NULL){
-					recorreRecursivo(list);
-					list = elimina_X(list);
-					recorreRecursivo(list);
-				}
-				else
-					printf("\n\tLa lista esta vacia");			
+		case 12:
+			if (list != NULL)
+			{
+				recorreRecursivo(list);
+				busqueda_desordenada(list);
+			}
+			else
+				printf("\n\tLa lista esta vacia");
 			break;
 
-			case 11:
-				if (list != NULL){
-					recorreRecursivo(list);
-					list = elimina_antes_X(list);
-					recorreRecursivo(list);
-				}
-				else
-					printf("\n\tLa lista esta vacia");			
+		case 13:
+			if (list != NULL)
+			{
+				recorreRecursivo(list);
+				busqueda_ordenada(list);
+			}
+			else
+				printf("\n\tLa lista esta vacia");
 			break;
 
+		case 14:
+			if (list != NULL)
+			{
+				recorreRecursivo(list);
 
-			case 12:
-				if (list != NULL){
-					recorreRecursivo(list);
-					busqueda_desordenada(list);
-				}
-				else
-					printf("\n\tLa lista esta vacia");			
+				printf("\n [NODO X] Introduzca un valor entero: ");
+				if (scanf("%i", &dato))
+					busqueda_recursiva(list, dato);
+			}
+			else
+				printf("\n\tLa lista esta vacia");
 			break;
 
-			case 13:
-				if (list != NULL){
-					recorreRecursivo(list);
-					busqueda_ordenada(list);
-				}
-				else
-					printf("\n\tLa lista esta vacia");			
+		case 15:
+			if (list != NULL)
+			{
+				recorreRecursivo(list);
+				reverse(&list);
+				printf("\n");
+				recorreRecursivo(list);
+			}
+			else
+				printf("\n\tLa lista esta vacia");
 			break;
 
-			case 14:
-				if (list != NULL){
-					recorreRecursivo(list);
-
-					printf("\n [NODO X] Introduzca un valor entero: ");
-					if(scanf("%i",&dato))
-						busqueda_recursiva(list, dato);								
-				}
-				else
-					printf("\n\tLa lista esta vacia");			
+		case 16:
+			if (list != NULL)
+			{
+				recorreRecursivo(list);
+				list = ordena_descendente(list);
+				printf("\n");
+				recorreRecursivo(list);
+			}
+			else
+				printf("\n\tLa lista esta vacia");
 			break;
 
-			case 15:
-				if (list != NULL){
-					recorreRecursivo(list);
-					reverse(&list);
-					printf("\n");
-					recorreRecursivo(list);
-				}
-				else
-					printf("\n\tLa lista esta vacia");			
+		case 17:
+			if (list != NULL)
+			{
+				recorreRecursivo(list);
+				list = ordena_ascendente(list);
+				printf("\n");
+				recorreRecursivo(list);
+			}
+			else
+				printf("\n\tLa lista esta vacia");
 			break;
 
-			case 16:
-				if (list != NULL){
-					recorreRecursivo(list);
-					list = ordena_descendente(list);
-					printf("\n");
-					recorreRecursivo(list);
-				}
-				else
-					printf("\n\tLa lista esta vacia");			
+		case 18:
+			if (list == NULL)
+				list = crea_descendente();
+			else
+				printf("LA LISTA YA ESTA CREADA");
 			break;
 
-			case 17:
-				if (list != NULL){
-					recorreRecursivo(list);
-					list = ordena_ascendente(list);
-					printf("\n");
-					recorreRecursivo(list);
-				}
-				else
-					printf("\n\tLa lista esta vacia");			
+		case 19:
+			if (list == NULL)
+				list = crea_ascendente();
+			else
+				printf("LA LISTA YA ESTA CREADA");
 			break;
 
-			case 18:
-				if (list == NULL)
-					list = crea_descendente();
-				else 
-					printf("LA LISTA YA ESTA CREADA");		
-			break;
-
-			case 19:
-				if (list == NULL)
-					list = crea_ascendente();
-				else 
-					printf("LA LISTA YA ESTA CREADA");		
-			break;
-
-			default: recorreRecursivo(list);
-		}getchar();
+		default:
+			recorreRecursivo(list);
+		}
+		getchar();
 	} while (true);
 	return 0;
 }
